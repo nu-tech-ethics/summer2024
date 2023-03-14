@@ -1,0 +1,21 @@
+---
+layout: default
+---
+<article class="assignment">
+
+    <p>
+        Due on {{ page.due_date  | date: "%a, %m/%d" }}
+        {% if page.due_time %}
+            @ {{ page.due_time }}.
+        {% else %}
+            @ 11:59PM.
+        {% endif %}
+        {% if page.credits %}
+            <br>Credit: {{page.credits}}
+        {% endif %}
+    </p>
+
+    {{ content }}
+
+</article>
+    

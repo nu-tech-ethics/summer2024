@@ -1,0 +1,38 @@
+{% assign optional = 0 %}
+{% assign pick_one = 0 %}
+<ul class="readings">
+{% for item in page.readings %}
+    {% if item.optional == 1 %}
+        {% assign optional = 1 %}
+    {% elsif item.pick_one == 1 %}
+        {% assign pick_one = 1 %}
+    {% else %}
+        {% include reading.html %} 
+    {% endif %}
+{% endfor %}
+</ul>
+
+
+{% if pick_one == 1 %}
+    <div class="optional-readings">Pick One of the Following:</div>
+    <ul class="readings">
+    {% for item in page.readings %}
+        {% if item.pick_one == 1 %}
+            {% include reading.html %} 
+        {% endif %}
+    {% endfor %}
+    </ul>
+{% endif %}
+
+{% if optional == 1 and hide_optional == null %}
+    <div class="optional-readings">Recommended (Optional)</div>
+    {{hide_optional}}
+
+    <ul class="readings">
+    {% for item in page.readings %}
+        {% if item.optional == 1 %}
+            {% include reading.html %} 
+        {% endif %}
+    {% endfor %}
+    </ul>
+{% endif %}

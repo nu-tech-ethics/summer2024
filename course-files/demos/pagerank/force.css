@@ -1,0 +1,42 @@
+body {
+    margin: 0px;
+    display: flex;
+    flex-direction: row;
+}
+
+line.link {
+    stroke: #000;
+    /* stroke-width: 1.5px; */
+  }
+  
+circle.node {
+    cursor: move;
+    fill: #ccc;
+    stroke: #fff;
+    stroke-width: 1.5px;
+    cursor: pointer;
+}
+  
+.node.fixed circle {
+    fill: #f00 !important;
+}
+
+.label {
+    font-size: 10px;
+    text-anchor: middle;
+    stroke: #fff;
+    stroke-width: 2.5px;
+    paint-order: stroke;
+    cursor: pointer;
+}
+
+#chart {
+    width: 60vw;
+    height: 100vh;
+}
+
+#detail {
+    width: 40vw;
+    height: 100vh;
+    background: #EEE;
+}

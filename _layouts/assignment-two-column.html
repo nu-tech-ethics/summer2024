@@ -1,0 +1,24 @@
+---
+layout: two-column
+---
+
+<p>
+    {% if page.due_date %}
+        Due on {{ page.due_date  | date: "%a, %m/%d" }} 
+        {% if page.due_time %}
+            @ {{ page.due_time }}.
+        {% else %}
+            @ 11:59PM.
+        {% endif %}
+    {% endif %}
+    {% if page.points %}
+        {{ page.points }} Points.
+    {% endif %}
+    {% if page.credits %}
+        <br>Credit: {{page.credits}}
+    {% endif %}
+</p>
+
+{{ content }}
+
+

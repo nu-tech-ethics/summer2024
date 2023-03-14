@@ -1,0 +1,118 @@
+.resources {
+
+    table {
+        border-collapse: collapse;
+        // border-left: solid 1px #CCC;
+        // border-right: solid 1px #CCC;
+        // border-top: solid 1px #CCC;
+        margin-bottom: 50px;
+    }
+    td, th {
+        // border-bottom: solid 1px #DDD;
+        // border-right: dotted 1px #DDD;
+        padding: 8px;
+        text-align: left;
+        font-size: 1em;
+    }
+    table td:first-child, table th:first-child {
+        min-width: 160px;
+    }
+
+    th {
+        /* For sticky headers */
+        position: sticky;
+        top: 0;
+        z-index: 2;
+    } 
+
+    th {
+        font-weight: bold;
+        background-color: #F6F6F6;
+        min-width: 150px;
+    }
+    th a, th span {
+        line-height: 26px;
+        padding: 3px;
+    }
+    th .fa-filter {
+        float:right;
+        padding: 10px;
+        background: #EEE;
+        border-radius: 20px;
+        font-size: 0.8em;
+    }
+
+    th .fa-filter:hover {
+        background: #DDD;
+    } 
+
+    th .fa-filter.active {
+        background: $purple;
+        color: white;
+    }
+    th .fa-filter.active:hover {
+        background: $lightpurple;
+    } 
+
+    .tag {
+        padding: 5px 10px;
+        border-radius: 4px;
+        background: #eee;
+        margin-left: 5px;
+        margin-bottom: 5px;
+        display: inline-block;
+    }
+
+    .box {
+        padding: 5px 5px 20px 10px;
+        background-color:#F6F6F6;
+        position: absolute;
+        // border-left: solid 1px #CCC;
+        // border-right: solid 1px #CCC;
+        // border-bottom: solid 1px #CCC;
+        margin-left: -1px;
+        box-shadow: -4px 6px 9px 0px #ccc;
+    }
+
+    .box.hidden {
+        display: none;
+    }
+
+    th a, th a:visited, th a:active, th a:hover, th span {
+        color: #444;
+        font-weight: bold;
+        text-decoration: none;
+        padding: 5px 10px;
+        border-radius: 4px;
+    }
+    th a:hover {
+        color: black;
+        background: #DDD;
+    }
+
+    td a {
+        text-decoration: none;
+        color: $purple;
+    }
+
+    td a:hover {
+        text-decoration: underline;
+    }
+
+    .sort.asc.active::before {
+        content: '\f0d7';
+        margin-right: 5px;
+        font-family: "Font Awesome 5 Free";
+    }
+
+    .sort.desc.active::before {
+        content: '\f0d8 ';
+        margin-right: 5px;
+        font-family: "Font Awesome 5 Free";
+    }
+
+    .notes {
+        color: #777;
+        font-size: 0.9em;
+    }
+}

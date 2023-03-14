@@ -1,0 +1,69 @@
+<!doctype html>
+<html lang="en">
+    <head>
+        {% include head.html %}
+    </head>
+    <body class="two-column">
+        {% include header.html %}
+        {% include navigation.html %}
+        {% capture schedule_simple %}{% include schedule-simple.html %}{% endcapture %}
+        {% assign all_content = schedule_simple | append: content %}
+        <main>
+            <aside>
+                {% include toc.html html=all_content class='side-menu' ordered=true %}
+            </aside>
+            <article>
+                {% include page_title.html %} 
+
+                <table>
+                    <tbody>
+                      <tr>
+                        <td><strong>Course</strong></td>
+                        <td>{{ page.course }}</td>
+                      </tr>
+                      <tr>
+                        <td><strong>Professor</strong></td>
+                        <td>{{ page.professor }}</td>
+                      </tr>
+                      <tr>
+                        <td><strong>Graduate Teaching Assistant</strong></td>
+                        <td>{{ page.ta }}</td>
+                      </tr>
+                      <tr>
+                        <td><strong>Peer Mentors</strong></td>
+                        <td>{{ page.pms }}</td>
+                      </tr>
+                      <tr>
+                        <td><strong>Class Time</strong></td>
+                        <td>{{ page.class_time }}</td>
+                      </tr>
+                      <tr>
+                        <td><strong>Class Location</strong></td>
+                        <td>{{ page.class_location }}</td>
+                      </tr>
+                      <tr>
+                        <td><strong>Office Hours</strong></td>
+                        <td>
+                            <strong>Ayse</strong>: Wednesday, 11-12PM in Mudd 3534<br>
+                            <strong>Sarah</strong>: <a href="https://northwestern.zoom.us/j/91015597897">Thursday, 3-5PM on Zoom</a> (<a href="https://northwestern.zoom.us/j/91015597897">https://northwestern.zoom.us/j/91015597897</a>)
+                        </td>
+                      </tr>
+                    </tbody>
+                </table>
+
+                {% if page.include_covid_statement %}
+                    {% include covid_statement.html %}
+                {% endif %}
+
+                {{ schedule_simple }}
+                                
+                {{ content }}
+
+            </article>  
+        </main>
+
+        {% include footer.html %}
+        {% include scripts.html %}
+        <script type="text/javascript" src="{{site.baseurl}}/assets/js/scrollspy.js"></script>
+    </body>
+</html>

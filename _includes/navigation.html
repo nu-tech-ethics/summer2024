@@ -1,0 +1,9 @@
+<nav>
+    <ul>
+        <li {% if page.url == "/syllabus/" %}class="active"{% endif %}><a href="{{site.baseurl}}/syllabus/">Syllabus</a></li>
+        <li {% if page.url == "/" or page.url contains "/lectures/" %}class="active"{% endif %}><a href="{{site.baseurl}}/" >Schedule</a></li>
+        <li {% if page.url contains "/assignments/" %}class="active"{% endif %}><a href="{{site.baseurl}}/assignments/">Assignments</a></li>
+        <li {% if page.url == "/resources/" %}class="active"{% endif %}><a href="{{site.baseurl}}/resources/">Resources</a></li>
+        <li {% if page.url == "/working-group/" %}class="active"{% endif %}><a href="{{site.baseurl}}/working-group/">Working Group</a></li>
+    </ul>
+</nav>
