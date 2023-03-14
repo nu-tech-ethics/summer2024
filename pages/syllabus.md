@@ -3,12 +3,12 @@ layout: syllabus
 title: Syllabus
 type: page
 permalink: /syllabus/
-course: "CS396: Computing, Ethics, and Society"
-professor: Sarah Van Wart
-pms: Divyanshi Sharma & Alexandra Roumeliotis
-ta: Ayse Hunt (with help from Natalie Melo)
-class_time: Tuesdays and Thursdays, 11:00am - 12:20pm
-class_location: Technological Institute M345
+course: "CS 396/496 | LS 351/451: Computing, Ethics, and Society"
+professor: Natalie Araujo Melo & Victoria C. Chávez
+pms: Jack Burkhardt (pn/p); sahibzada mayed (mayed, any pronuns); Naomi Wu (pn/p)
+class_time: Mondays and Wednesdays, 2:00pm - 3:20pm
+class_location: Zoom (see Canvas for link)
+office_hours: TBD
 include_covid_statement: 1
 ---
 
