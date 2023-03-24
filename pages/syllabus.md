@@ -4,8 +4,8 @@ title: Syllabus
 type: page
 permalink: /syllabus/
 course: "CS 396/496 | LS 351/451: Computing, Ethics, and Society"
-professor: Natalie Araujo Melo & Victoria C. Chávez
-pms: Jack Burkhardt (pn/p); sahibzada mayed (mayed, any pronuns); Naomi Wu (pn/p)
+professor: Natalie Araujo Melo (Prof Natalie/any pronuns) & Victoria C. Chávez (Prof V/they/she)
+pms: Jack Burkhardt (Jack/they/he); sahibzada mayed (mayed, any pronuns); Naomi Wu (Naomi/she/her)
 class_time: Mondays and Wednesdays, 2:00pm - 3:20pm
 class_location: Zoom (see Canvas for link)
 office_hours: TBD
@@ -89,6 +89,9 @@ We will not be using the final exam time for this class because there is no midt
 * You will respect and seek to understand the unique perspectives and experiences of others.
 * You will give your classmates the benefit of the doubt (about their competence and intentions) and can expect the same from them.
 * All work that you submit will be your own original work; you will cite others’ work where appropriate. 
+
+We are working very hard to ensure our course is as accessible as possible. If you have any suggestions for how we can make the course more accessible, please reach out to us. If you have any AccessibleANU accommodations, please contact us as soon as possible so that we may work together to support your success in this course. 
+
 
 ### Office Hours
 Will will post our office hours schedule during the first week of classes.

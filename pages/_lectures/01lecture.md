@@ -1,21 +1,23 @@
 ---
 layout: module
 num: 1
-title: Introduction
+title: Course Introduction
 type: lecture
 draft: 0
 group: 1
 show_schedule: 1
-slides:
-  - url: https://docs.google.com/presentation/d/1uCSJStt8eFcVEalGa8GS2GbPS2PDGhmYu5D-RmS9ufE/edit?usp=sharing
-    title: Intro to the Course
+# slides:
+#   - url: https://docs.google.com/presentation/d/1uCSJStt8eFcVEalGa8GS2GbPS2PDGhmYu5D-RmS9ufE/edit?usp=sharing
+#     title: Intro to the Course
 due_date: 2023-03-28
 readings:
   - title: "Course Syllabus"
-    url: /fall2021/syllabus/
+    url: /spring2023/syllabus/
     internal: 1
     notes: "Please read through the syllabus"
 
 ---
 
-Welcome to the course! Today is a day for logistics and introductions. See the slides for details.
+Welcome to the course! Today is a day for introductions, relationshp-building, and logistics. 
+
+<!-- See the slides for details. -->
