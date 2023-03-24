@@ -4,8 +4,8 @@ title: Syllabus
 type: page
 permalink: /syllabus/
 course: "CS 396/496 | LS 351/451: Computing, Ethics, and Society"
-professor: Natalie Araujo Melo (Prof Natalie/any pronuns) & Victoria C. Chávez (Prof V/they/she)
-pms: Jack Burkhardt (Jack/they/he); sahibzada mayed (mayed, any pronuns); Naomi Wu (Naomi/she/her)
+professor: Natalie Araujo Melo (Prof Natalie/any pronouns) & Victoria C. Chávez (Prof V/they/she)
+pms: Jack Burkhardt (Jack/they/he); sahibzada mayed (mayed, any pronouns); Naomi Wu (Naomi/she/her)
 class_time: Mondays and Wednesdays, 2:00pm - 3:20pm
 class_location: Zoom (see Canvas for link)
 office_hours: TBD
