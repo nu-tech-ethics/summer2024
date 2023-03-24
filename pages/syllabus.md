@@ -28,7 +28,7 @@ To accomplish this, we will engage in critical reading across a range of topics 
 The course is open to all students. For CS majors, minors, and graduate students, the course aims to help students to consider and grapple with ethical dimensions of their work, in order to inform a more critical technical practice. For students coming into the class from other disciplinary vantage points, the course aims to provide a solid foundation for thinking about the possibilities, risks, and impacts of computer-mediated infrastructures on society.
 
 ## Acknowledgements
-This course was originally developed in collaboration with Dr. Sepehr Vakil and Natalie Melo.
+This course was originally developed in collaboration with Dr. Sepehr Vakil, Dr. Sarah Van Wart, and Natalie Araujo Melo.
 
 ## Course Format
 The course format will consist of:
@@ -37,41 +37,27 @@ The course format will consist of:
 3. Reflective writing assignments that will ask you to analyze the social and ethical dimensions of contemporary technology debates.
 
 ## Required Texts
-We will be reading chapters from several different books (in Chronological Order):
+All assigned readings will be available via Canvas as PDFs. We will be reading chapters from several different books (in Chronological Order):
 
-1. Sandel, M. (2010). <a href="https://www.amazon.com/Justice-Whats-Right-Thing-Do/dp/0374532508">Justice: What's the Right Thing to Do?</a>. Farrar, Straus and Giroux.
-    * You will need to purchase this book, as it is not available in the NU Library. That said, I have made the introduction available on Canvas.
-2. Benjamin, R. (2019). <a href="https://www.ruhabenjamin.com/race-after-technology">Race After Technology: Abolitionist Tools for the New Jim Code</a>. John Wiley & Sons.
+1. Benjamin, R. (2019). <a href="https://www.ruhabenjamin.com/race-after-technology">Race After Technology: Abolitionist Tools for the New Jim Code</a>. John Wiley & Sons.
     * You may purchase it (recommended), of you can access it <a href="https://ebookcentral.proquest.com/lib/northwestern/detail.action?docID=5820427">online through the Northwestern Library</a>.
-3. Crawford, Kate (2021). <a href="">Atlas of AI</a>. Yale University Press. 
-    * Available through Northwestern's JSTOR access (and on Canvas for your convenience).
-4. Costanza-Chock, Sasha (2020). <a href="https://design-justice.pubpub.org/" target="_blank">Design Justice</a>. The MIT Press.
+2. Crawford, Kate (2021). <a href="">Atlas of AI</a>. Yale University Press. 
+    * Available through <a href="https://www-jstor-org.turing.library.northwestern.edu/stable/j.ctv1ghv45t">Northwestern's JSTOR access</a>.
+3. Costanza-Chock, Sasha (2020). <a href="https://design-justice.pubpub.org/">Design Justice</a>. The MIT Press.
     * Open access (yay!)
 
 ## Course Format & Grading
 The course format will consist of:
 
-1. Participation (30%)
-2. Homework (40%)
+1. Participation (40%)
+2. Midterm (30%)
 3. Final project or paper (30%)
 
-### 1. Participation (30%)
-Your participation grade will be based on attendance, and on evidence that you have completed the readings (as reflected both through your in-class participation as well as through the quality of your reading responses and Identity Journal entries).
+### 1. Participation (40%)
+Your participation grade will be based on attendance, and on evidence that you are engaging with the readings (as shown through your in-class participation as well as through your Identity Journal entries).
 
 #### Class Discussions
 We will use classroom discussion as a form of collaborative sense-making to understand, critique, and interrogate the required [course readings](../). Your timely and engaged attendance at every class is thus very important – both for you and for your classmates. Every student will need to participate in a thoughtful and productive manner in order for these discussions to be effective. Building on and reacting to other participants’ comments is encouraged, and should be done in a respectful tone even if you disagree. In order to participate fully, please do not let your laptop, phone, or other devices distract you or other participants. 
-
-#### Reading Responses
-Students will also be required to submit **weekly reading responses**. Responses should be around 200-400 words in length (give or take). Sometimes, you will be given specific questions to answer. Other times you can write about themes, ideas, and questions that interested you. Your grade will be based on evidence that you did the readings. **You may skip one forum discussion post without a grade penalty.**
-
-Some approaches that you could take include (but are not limited to):
-* Summarizing of one or more key arguments of a readings and whether / how these arguments resonate with you.
-* Analyzing some of the strengths or weaknesses of the article(s).
-* Writing about ideas you were confused about and/or didn't entirely understand (and what about them was confusing / ambiguous).
-* Sharing thoughts about how the readings connect to other readings we've done, or to current events going on in the world.
-* Sharing thoughts on what you would like to learn about in more detail.
-
-In addition to writing your own responses, you will respond to at least **two** of your classmates' posts per week. Both your writing response and your responses to your classmates should be submitted **before class (11AM) on the day it is due**. You may miss one reading response during the quarter without a grade penalty.
 
 #### Identity Journal
 
@@ -82,8 +68,8 @@ Each student will also create an "Identity Journal" that will be updated through
 > 
 > You are allowed two unexcused absences during the quarter, no questions asked. You should reserve these absences for the occasional emergency or illness. After two absences, your participation grade will be impacted.
 
-### 3. Homework (40%)
-You will also complete 3 homework assignments, which are intended to to help you analyze existing technologies and debates using some of the ideas you're learning in the course. These will be posted on the course schedule in the second week of class.
+### 3. Midterm (30%)
+Using at least 3 of the academic sources we have read so far, develop a conceptual framework that articulates your unique perspective on technology. Your conceptual framework should integrate theoretical arguments from the readings covered thus far and your own personal identity and experience in the world. Ultimately, your conceptual framework should be useful, and productive. You will draw upon it to conduct a sociopolitical analysis of your technology. Your analysis will be designed to shed light on questions such as: What values do this technology reflect, embrace, reject, or encourage? Who is affected by its design? How was its design affected by society? Who reaps the benefits, and who suffers the costs of its creation and use? Your paper should be 5-6 pages double spaced, 12-point font, Times New Roman. Follow APA guidelines for formatting and references. 
 
 ### 4. Final Project (30%)
 The current plan for the final project is for you to choose from one of the two options below. This may change.
