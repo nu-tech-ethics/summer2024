@@ -99,20 +99,24 @@ Will will post our office hours schedule during the first week of classes.
 ## Course Learning Goals
 
 {:#goal-1}
-### 1. Recognizing the impact of one's own assumptions, biases, and experiences
-Students will appreciate and understand how their own assumptions, experiences, worldviews, social location, and identity categories can and do impact the design, implementation, and use of computing technologies. Our hope is that students across a range of majors will become more conscious, sensitive, ethically aware, and humble thinkers/doers in the world. 
+### 1. Recognize the impact of one’s own assumptions, biases, and experiences
+Students will appreciate and understand how their own assumptions, experiences, worldviews, social location, and identity categories can and do impact the design, implementation, and use of computing technologies. Our hope is that students across a range of majors will become more conscious, sensitive, ethically aware, and humble thinkers/doers in the world.
 
 {:#goal-2}
-### 2. Identifying (and questioning) dominant/normative ways of thinking about computing and technology
-Students will learn some techniques for recognizing social values in computer-mediated systems. This includes being able to identify how these systems can and do extend and challenge the power and reach of particular political and economic systems, cultural traditions, and societal norms -- for better or for worse.
+### 2. Identify (and question) dominant/normative ways of thinking about computing and technology
+Students will learn some techniques for recognizing social values in computer-mediated systems. This includes being able to identify how these systems can and do extend and challenge the power and reach of particular political and economic systems, cultural traditions, and societal norms – for better or for worse.
 
 {:#goal-3}
-### 3. Developing a framework for thinking about the relationship between technology and society
-Students will develop a framework for considering when, how, or even if technological solutions are appropriate in a given situation. There are many ways to solve problems and shape social outcomes (e.g. law, policy, institutional supports, technologies, educational initiatives, and so forth). As such, we hope that students will recognize and value many different forms of participation and action within sociotechnical systems, and think broadly and holistically about innovation and creative problem-solving.
+### 3. Consider offerings and limitations of current tech ethics frameworks  
+Students will compare frameworks that are currently utilized in tech ethics spaces, and identify their strengths and weaknesses. In other words, what do people mean when they say or do work in “tech ethics”? 
 
 {:#goal-4}
-### 4. Considering how to participate in a world that is heavily mediated by computing
-Lastly, students will formulate ideas (or strengthen existing ones) around how they might use their own knowledge, skills, dispositions, and creativity to participate in the world going forward; and to foster a more ethical and just society. This may involve taking some future action (big or small), exploring a new idea, reading more about a topic, or something else. 
+### 4. Develop and apply frameworks for thinking about the relationship between technology and society
+Students will develop mental models for considering when, how, or even if technological solutions are appropriate in a given situation. There are many ways to solve problems and shape social outcomes (e.g. law, policy, institutional supports, technologies, educational initiatives, and so forth). As such, we hope that students will recognize and value many different forms of participation and action within sociotechnical systems, and think broadly and holistically about innovation and creative problem-solving.
+
+{:#goal-5}
+### 5. Evaluate one’s individual and communal ethical participation in the world
+Lastly, students will formulate ideas (or strengthen existing ones) around responsibility and care; specifically, how they might use their own and their community’s knowledge, skills, dispositions, and creativity to participate in the world going forward. This may involve taking some future action (big or small), calling others in or out, exploring a new idea, reading more about a topic, or something else, towards fostering a more ethical and just society.
 
 ## Syllabus Statements from the Provost's Office
 Below, we have also included the following statements, written by the <a href="https://www.registrar.northwestern.edu/faculty-staff/syllabi.html" target="_blank">Provost's office</a>:
@@ -122,12 +126,6 @@ Below, we have also included the following statements, written by the <a href="h
 
 ### Accessibility
 > Northwestern University is committed to providing the most accessible learning environment as possible for students with disabilities. Should you anticipate or experience disability-related barriers in the academic setting, please contact AccessibleNU to move forward with the university’s established accommodation process (e: accessiblenu@northwestern.edu; p: 847-467-5530). If you already have established accommodations with AccessibleNU, please let me know as soon as possible, preferably within the first two weeks of the term, so we can work together to implement your disability accommodations. Disability information, including academic accommodations, is confidential under the Family Educational Rights and Privacy Act.
-
-### COVID-19 Testing Compliance
-> To protect the health of our community, Northwestern University requires unvaccinated students who are in on-campus programs to be tested for COVID-19 twice per week. 
-> 
-> Students who fail to comply with current or future COVID-19 testing protocols will be referred to the Office of Community standards to face disciplinary action, including escalation up to restriction from campus and suspension.
-
 
 ### Prohibition of Recording of Class Sessions by Students
 In this class, we will **NOT** be recording classes. Note from the Provost's office:
