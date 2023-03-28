@@ -6,9 +6,9 @@ type: lecture
 draft: 0
 group: 1
 show_schedule: 1
-# slides:
-#   - url: https://docs.google.com/presentation/d/1uCSJStt8eFcVEalGa8GS2GbPS2PDGhmYu5D-RmS9ufE/edit?usp=sharing
-#     title: Intro to the Course
+slides:
+  - url: https://docs.google.com/presentation/d/1nkx4ycxf3g6MeUTZZOZ9K6hlnYqmqIVxToZsJn4sdZQ/edit?usp=sharing
+    title: Intro to Computing, Ethics, and Society
 due_date: 2023-03-28
 readings:
   - title: "Course Syllabus"
@@ -18,6 +18,4 @@ readings:
 
 ---
 
-Welcome to the course! Today is a day for introductions, relationshp-building, and logistics. 
-
-<!-- See the slides for details. -->
+Welcome to the course! Today is a day for introductions, relationshp-building, and logistics. See the slides (above) for details.
