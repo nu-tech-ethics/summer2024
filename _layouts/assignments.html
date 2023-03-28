@@ -60,11 +60,6 @@ layout: default
                         </a> 
                     {% endif %}                   
                 </td>
-                <td>
-                    {% if assignment.description  %}
-                        {{ assignment.description }}
-                    {% endif %}   
-                    </td>
                 <td>{{ assignment.due_date | date: "%a, %m/%d" }}</td>
                 <td>
                     <span class="due-date">
