@@ -18,4 +18,4 @@ readings:
 
 ---
 
-Welcome to the course! Today is a day for introductions, relationshp-building, and logistics. See the slides (above) for details.
+Welcome to the course! Today is a day for introductions, relationshp-building, and logistics. See the slides (below) for details.
