@@ -76,7 +76,7 @@ The current plan for the final project is for you to choose from one of the two 
 
 The first is an individual paper based in the genre of speculative fiction. Imagine the state of the world in 2100. You are free to imagine based on how you see the current world evolving, or you can imagine a totally alternative reality based on your wildest dreams or fears. Using key texts from the class, you will describe in rich detail the socio-technical features of this world, and your analysis will describe the systems, policies, and decisions that got us there. If you wish, you have the option of submitting your final paper to the BreakPoint journal for publication. Shoot for 5-6 pages.
 
-The second option is to work in a group to create an educational resource that examines a technology and its social / moral / political implcations. You will identify learning objectives and a target audience of learners for your module (e.g. a 7th grade social studies class, a network of human rights lawyers, a Congressional subcommittee, etc). You will create a set of learning and teaching resources which might include lesson plans, assessments, podcasts, interactive demos, etc).
+The second option is to work in a group (of up to 3 people) to create an educational resource that examines a technology and its social / moral / political implcations. You will identify learning objectives and a target audience of learners for your module (e.g. a 7th grade social studies class, a network of human rights lawyers, a Congressional subcommittee, etc). You will create a set of learning and teaching resources which might include lesson plans, assessments, podcasts, interactive demos, etc).
 
 
 ### Other Grading Logistics
