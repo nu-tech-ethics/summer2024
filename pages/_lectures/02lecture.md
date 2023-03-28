@@ -16,11 +16,17 @@ readings:
     author: Williams, R., et al.
     date: 2022
     source: IEEE Journals & Magazine
-  - title: "From Ethics Washing to Ethics Bashing: A View on Tech Ethics from Within Moral Philosophy"
+  - title: "(PAPER) From Ethics Washing to Ethics Bashing: A View on Tech Ethics from Within Moral Philosophy"
     url: https://canvas.northwestern.edu/files/16202252
     author: Bietti, E.
     date: 2021
     source: SSRN Electronic Journal
-
+    pick_one: 1
+ - title: "(VIDEO) From Ethics Washing to Ethics Bashing: A View on Tech Ethics from Within Moral Philosophy"
+    url: https://www.youtube.com/watch?v=6Z-U6zkAHCA
+    author: Bietti, E.
+    date: 2021
+    source: Centre for Ethics
+    pick_one: 1
 ---
 
