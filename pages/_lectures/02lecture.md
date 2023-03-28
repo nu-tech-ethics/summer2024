@@ -22,7 +22,7 @@ readings:
     date: 2021
     source: SSRN Electronic Journal
     pick_one: 1
- - title: "(VIDEO) From Ethics Washing to Ethics Bashing: A View on Tech Ethics from Within Moral Philosophy"
+  - title: "(VIDEO) From Ethics Washing to Ethics Bashing: A View on Tech Ethics from Within Moral Philosophy"
     url: https://www.youtube.com/watch?v=6Z-U6zkAHCA
     author: Bietti, E.
     date: 2021
