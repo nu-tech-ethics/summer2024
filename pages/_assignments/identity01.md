@@ -8,25 +8,24 @@ ordering: 1
 draft: 0
 ---
 
-## Setup (you'll only do this once)
+## Journal Setup
 1. Create a Google Document and title in the following way: “LASTNAME_FIRSTINITIAL_IDJ” (EX: “MELO_N_IDJ”)
   - This whole doc is your journal– a place to keep all entries together. 
-  - You’ll be submitting individual entries through Canvas
+  - You’ll be submitting **individual entries** through Canvas
 2. Share Google Doc with profs: 
   - vcchavez@u.northwestern.edu
   - melon@u.northwestern.edu
-3. Every time you make an entry, you must submit the text to Canvas 
+
+Remember: Every time you make an entry, **you must submit the text on Canvas.**
 
 
 ## Let’s do the first entry!
 Share your thoughts on the following:
 
-1a. Why are you taking this course?
+- Why are you taking this course?
+- How would you characterize your own relationship with technology?
+- What do you need to thrive in this course (personally, intellectually, and socially)?
+- What can you offer members of the course to thrive together (kind words, physical help, intellectual collaboration, and so on)?
+- Anything else you think we should know!
 
-1b. How would you characterize your own relationship with technology?
-
-2a. What do you need to thrive in this course (personally, intellectually, and socially)?
-
-2b. What can you offer members of the course to thrive together (kind words, physical help, intellectual collaboration, and so on)?
-
-2c. Anything else you think we should know!
+Remember: **Submit your *entry text* on Canvas.**
