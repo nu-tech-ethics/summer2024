@@ -22,8 +22,11 @@ draft: 0
 Share your thoughts on the following:
 
 1a. Why are you taking this course?
+
 1b. How would you characterize your own relationship with technology?
 
 2a. What do you need to thrive in this course (personally, intellectually, and socially)?
+
 2b. What can you offer members of the course to thrive together (kind words, physical help, intellectual collaboration, and so on)?
+
 2c. Anything else you think we should know!
