@@ -7,9 +7,9 @@ draft: 0
 group: 1
 show_schedule: 1
 due_date: 2023-03-29
-# slides:
-#   - url: https://docs.google.com/presentation/d/1weWuhTyeIeMnr6nHFtLQM6G-aJSdZ_JSicSgMefMEcg/edit?usp=sharing
-#     title: The Science of Morality
+slides:
+  - url: https://docs.google.com/presentation/d/1w7IOcPIIIp_TsQ8SpexlEkYE77LdADd3IZzFeJK5fnI/edit?usp=sharing
+    title: Tech Ethics
 readings:
   - title: Oh No, Not Another Trolley! On the Need for a Co-Liberative Consciousness in CS Pedagogy (Intro only)
     url: https://canvas.northwestern.edu/files/16202249
