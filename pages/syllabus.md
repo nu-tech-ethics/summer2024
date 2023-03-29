@@ -69,15 +69,22 @@ Each student will also create an "Identity Journal" that will be updated through
 > You are allowed two unexcused absences during the quarter, no questions asked. You should reserve these absences for the occasional emergency or illness. After two absences, your participation grade will be impacted.
 
 ### 3. Midterm (30%)
-Using at least 3 of the academic sources we have read so far, develop a conceptual framework that articulates your unique perspective on technology. Your conceptual framework should integrate theoretical arguments from the readings covered thus far and your own personal identity and experience in the world. Ultimately, your conceptual framework should be useful, and productive. You will draw upon it to conduct a sociopolitical analysis of your technology. Your analysis will be designed to shed light on questions such as: What values do this technology reflect, embrace, reject, or encourage? Who is affected by its design? How was its design affected by society? Who reaps the benefits, and who suffers the costs of its creation and use? Your paper should be 5-6 pages double spaced, 12-point font, Times New Roman. Follow APA guidelines for formatting and references. 
+Using at least 3 of the academic sources we have read so far, develop a conceptual framework that articulates your unique perspective on technology. Your conceptual framework should integrate theoretical arguments from the readings covered thus far and your own personal identity and experience in the world. Ultimately, your conceptual framework should be useful, and productive. You will draw upon it to conduct a sociopolitical analysis of your technology. Your analysis will be designed to shed light on questions such as: What values do this technology reflect, embrace, reject, or encourage? Who is affected by its design? How was its design affected by society? Who reaps the benefits, and who suffers the costs of its creation and use? 
 
 ### 4. Final Project (30%)
-The current plan for the final project is for you to choose from one of the two options below. This may change.
+For your final assignment in this class, we want to push you to think about how you might want to contribute to a just, technologically-mediated future. You can think about this very broadly. For instance:
 
-The first is an individual paper based in the genre of speculative fiction. Imagine the state of the world in 2100. You are free to imagine based on how you see the current world evolving, or you can imagine a totally alternative reality based on your wildest dreams or fears. Using key texts from the class, you will describe in rich detail the socio-technical features of this world, and your analysis will describe the systems, policies, and decisions that got us there. If you wish, you have the option of submitting your final paper to the BreakPoint journal for publication. Shoot for 5-6 pages.
+{:.blockquote-no-margin}
+> * Writing a piece of science fiction that explores the social / ethical implications of a particular socio-technical phenomenon.
+> * Prototyping an alternative platform/app that instantiates a set of ethical and political commitments
+> * Designing a set of interactive tools / activities / games to help people learn more about a social or ethical challenge.
+> * Creating a magazine or online journal of critical socio-techical thought
+> * Organizing a career fair that highlights a different set of possible career trajectories
+> * Making a documentary film
+> * Hosting a podcast series
+> * And more! We've curated a list of resources [here](../resources) that can give you some ideas. 
 
-The second option is to work in a group (of up to 3 people) to create an educational resource that examines a technology and its social / moral / political implcations. You will identify learning objectives and a target audience of learners for your module (e.g. a 7th grade social studies class, a network of human rights lawyers, a Congressional subcommittee, etc). You will create a set of learning and teaching resources which might include lesson plans, assessments, podcasts, interactive demos, etc).
-
+You may work individually or in groups of no more than three people. 
 
 ### Other Grading Logistics
 We will not be using the final exam time for this class because there is no midterm or final exam. Final grades are assigned on a fixed scale: 93-100 is an A, 90-92.99 is an A-, 87-89.99 is a B+, etc. Final course grades will not be curved.  
