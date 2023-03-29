@@ -1,0 +1,17 @@
+---
+layout: assignment
+title: "Identity Journal 2"
+abbreviation: Journal 2
+type: identity
+due_date: 2023-03-29
+ordering: 1
+draft: 0
+---
+
+Share your thoughts on the following:
+
+1. What does ethics mean to you?
+
+2. Reflect on what you’ve learned in class today, and revisit your response to part 1 (“What does ethics mean to you?”)
+
+Remember: **Submit your *entry text* on Canvas.**
