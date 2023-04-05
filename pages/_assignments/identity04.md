@@ -1,0 +1,17 @@
+---
+layout: assignment
+title: "Identity Journal 4"
+abbreviation: Journal 4
+type: identity
+due_date: 2023-04-05
+ordering: 1
+draft: 0
+---
+
+Share your thoughts on the following:
+
+_“exploitation of lands, waters, and peoples”_
+
+1. When talking about ethics and thinking about who’s included and who’s not, we often think about the _human_ people impacted. There are so many fields that aim to do this for justice-serving ends, for example Human-Centered Machine Learning (HCMLLinks to an external site.) or Human-Centered Artificial Intelligence (HCAILinks to an external site.). Think back to the land acknowledgement. What are some consequences of centering humans?
+
+Remember: **Submit your *entry text* on Canvas.**
