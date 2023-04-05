@@ -10,9 +10,7 @@ draft: 0
 
 Share your thoughts on the following:
 
-“The things we call ‘technologies’ are
-ways of building order in our world”
-(p. 127, last paragraph)
+_“The things we call ‘technologies’ are ways of building order in our world”_ (p. 127, last paragraph)
 
 Think back to your response to IDJ #1 and how you characterized your relationship with technology. 
 1. How did you define technology?
