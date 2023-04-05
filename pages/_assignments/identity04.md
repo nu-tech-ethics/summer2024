@@ -12,6 +12,6 @@ Share your thoughts on the following:
 
 _“exploitation of lands, waters, and peoples”_
 
-1. When talking about ethics and thinking about who’s included and who’s not, we often think about the _human_ people impacted. There are so many fields that aim to do this for justice-serving ends, for example Human-Centered Machine Learning (HCMLLinks to an external site.) or Human-Centered Artificial Intelligence (HCAILinks to an external site.). Think back to the land acknowledgement. What are some consequences of centering humans?
+1. When talking about ethics and thinking about who’s included and who’s not, we often think about the _human_ people impacted. There are so many fields that aim to do this for justice-serving ends, for example Human-Centered Machine Learning ([HCML](https://encyclopedia.pub/entry/8717)) or Human-Centered Artificial Intelligence ([HCAI](https://encyclopedia.pub/entry/24971)). Think back to the land acknowledgement. What are some consequences of centering humans?
 
 Remember: **Submit your *entry text* on Canvas.**
