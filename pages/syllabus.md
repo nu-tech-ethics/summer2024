@@ -8,7 +8,7 @@ professor: Natalie Araujo Melo (Prof Natalie/any pronouns) & Victoria C. Chávez
 pms: Jack Burkhardt (Jack/they/he); sahibzada mayed (mayed, any pronouns); Naomi Wu (Naomi/she/her)
 class_time: Mondays and Wednesdays, 2:00pm - 3:20pm
 class_location: Zoom (see Canvas for link)
-office_hours: Wednesdays at noon (starting on 4/12, on class Zoom, with Prof V), Fridays at 1pm (starting on 4/7, on class Zoom, with Prof Natalie), By appointment with either/both of us (see Canvas)
+office_hours: Wednesdays at noon (on class Zoom, with Prof V), Fridays at 1pm (on class Zoom, with Prof Natalie), By appointment with either/both of us (see Canvas)
 include_covid_statement: 1
 ---
 
