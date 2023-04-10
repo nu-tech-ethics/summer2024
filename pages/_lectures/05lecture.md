@@ -7,9 +7,9 @@ draft: 0
 group: 3
 show_schedule: 1
 due_date: 2023-04-10
-# slides:
-#   - url: 
-#     title: 
+slides:
+  - url: https://docs.google.com/presentation/d/1sZ80k_z_UoUaOMCQCcpMwMej6zAcEPnqMoMXafbNwxk/edit?usp=sharing
+    title: Intro to CRT
 readings:
   - title: Hallmark Crtical Race Theory Themes
     url: https://canvas.northwestern.edu/files/16288573/
