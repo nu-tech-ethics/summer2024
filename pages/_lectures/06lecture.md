@@ -16,6 +16,6 @@ readings:
     author: Hannah-Jones, Nikole
     date: 2023
     source: The 1619 Project (Hulu Series)
-    notes: "We recognize not everyone may have access to Hulu and as such have <a href="https://canvas.northwestern.edu/files/16331038">uploaded a version to Canvas</a>. Also, this could be a great opportunity to come together (covid-safely, of course) with your learning pods and watch together in person!" 
+    notes: "We recognize not everyone may have access to Hulu and as such have <a href='https://canvas.northwestern.edu/files/16331038'>uploaded a version to Canvas</a>. Also, this could be a great opportunity to come together (covid-safely, of course) with your learning pods and watch together in person!" 
 ---
 
