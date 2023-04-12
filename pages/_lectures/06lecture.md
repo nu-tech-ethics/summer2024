@@ -6,10 +6,10 @@ type: lecture
 draft: 0
 group: 3
 show_schedule: 1
-due_date: 2023-04-19
-# slides:
-#   - url: 
-#     title: 
+due_date: 2023-04-12
+slides:
+  - url: https://docs.google.com/presentation/d/1v4MvjP5bbSl3btg4Pi1Xv08wTl4OTloRTDfe_XZJh2c/edit?usp=sharing
+    title: Racial Capitalism
 readings:
   - title: Capitalism (Episode 4)
     url: https://www.hulu.com/watch/52af08f3-6b92-4411-836d-4b433dd1acc0?play=false&utm_source=shared_link
