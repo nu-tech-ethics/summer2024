@@ -5,7 +5,7 @@ abbreviation: Journal 6
 type: identity
 due_date: 2023-04-12
 ordering: 1
-draft: 1
+draft: 0
 ---
 
 Share your thoughts on the following:
