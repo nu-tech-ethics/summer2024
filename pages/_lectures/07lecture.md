@@ -7,9 +7,9 @@ draft: 0
 group: 4
 show_schedule: 1
 due_date: 2023-04-17
-# slides:
-#   - url: 
-#     title: 
+slides:
+  - url: https://docs.google.com/presentation/d/1CDKEhCcmTxJR4T51I2SerH68zrMS79LKKkEX9h6Ie9E/edit?usp=sharing
+    title: Race After Technology
 readings:
   - title: Introduction
     url: https://canvas.northwestern.edu/files/16332756/
