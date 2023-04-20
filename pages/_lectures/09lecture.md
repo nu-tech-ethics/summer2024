@@ -12,9 +12,11 @@ due_date: 2023-04-24
 #     title: Facial Recognition
 readings:
   - title: Coded Bias
-    url: https://canvas.northwestern.edu/files/16410478/
+    url: https://www.netflix.com/title/81328723
     author: Kantayya, Shalini
     date: 2020
+    source: Netflix
+    notes: "We recognize not everyone may have access to Netflix and as such have <a href='https://canvas.northwestern.edu/files/16410478/'>uploaded a version to Canvas</a>. Also, this could be a great opportunity to come together (covid-safely, of course) with your learning pods and watch together in person!" 
   - title: Counting the Countless
     url: https://canvas.northwestern.edu/files/16401875/
     author: Keyes, Os
