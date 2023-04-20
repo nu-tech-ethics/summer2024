@@ -1,6 +1,6 @@
 ---
 layout: module
-num: 5
+num: 9
 title: "Facial Recognition"
 type: lecture
 draft: 0
