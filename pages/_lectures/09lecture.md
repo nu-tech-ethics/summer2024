@@ -7,9 +7,9 @@ draft: 0
 group: 4
 show_schedule: 1
 due_date: 2023-04-24
-# slides:
-#   - url: 
-#     title: Facial Recognition
+slides:
+  - url: https://docs.google.com/presentation/d/1LFT0qNCzUWjreNa7Pzw0ixGj_H327c71jYICtCh7UGg/edit?usp=sharing
+    title: Facial Recognition
 readings:
   - title: Coded Bias
     url: https://www.netflix.com/title/81328723
