@@ -13,7 +13,7 @@ slides:
 readings:
   - title: Introduction
     url: https://canvas.northwestern.edu/files/16332756/
-    author: Benjamin, Ruha
+    author: Benjamin, R.
     date: 2019
     source: 'Race After Technology: Abolitionist Tools for the New Jim Code'
 ---
