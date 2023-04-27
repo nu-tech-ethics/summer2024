@@ -11,7 +11,7 @@ due_date: 2023-05-03
 #   - url: 
 #     title: Resisting
 readings:
-  - title: The Feds Are Watching: A History of Resisting Anti-Black Surveillance
+  - title: The Feds Are Watching
     url: https://level.medium.com/the-feds-are-watching-a-history-of-resisting-anti-black-surveillance-b2242d6ceaad
     author: Browne, S.
     date: 2020
