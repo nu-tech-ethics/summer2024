@@ -13,7 +13,7 @@ slides:
 readings:
   - title: Do Artifacts Have Politics?
     url: https://canvas.northwestern.edu/files/16235581/
-    author: Winner, Langdon
+    author: Winner, L.
     date: 1980
     source: Daedalus
     notes: Feel free to <a href="https://youtu.be/kicl0pXAJYQ">watch this video</a> as a primer (but not substitute!) to the article
