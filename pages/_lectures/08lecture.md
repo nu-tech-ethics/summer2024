@@ -13,13 +13,13 @@ slides:
 readings:
   - title: Introduction
     url: https://canvas.northwestern.edu/files/16336322/
-    author: Noble, Safiya Umoja
+    author: Noble, S. U.
     date: 2018
     source: 'Algorithms of Oppression: How Search Engines Reinforce Racism'
 
   - title: AI, Ain't I a Woman?
     url: https://www.youtube.com/watch?v=QxuyfWoVV98
-    author: Buolamwini, Joy
+    author: Buolamwini, J.
     date: 2018
 ---
 
