@@ -13,7 +13,7 @@ slides:
 readings:
   - title: Oh No, Not Another Trolley! On the Need for a Co-Liberative Consciousness in CS Pedagogy (Intro only)
     url: https://canvas.northwestern.edu/files/16202249
-    author: Williams, R., et al.
+    author: Williams, R., Smarr, S., Prioleau, D., & Gilbert, J. E.
     date: 2022
     source: IEEE Journals & Magazine
   - title: "(PAPER) From Ethics Washing to Ethics Bashing: A View on Tech Ethics from Within Moral Philosophy"
