@@ -13,19 +13,19 @@ slides:
 readings:
   - title: A tweet thread on "Unintended Consequences"
     url: https://canvas.northwestern.edu/files/16235578/
-    author: Fiesler, Cathy
+    author: Fiesler, C.
     date: 2020
     source: Twitter
     notes: After reading the tweet thread above, explore one of the related articles below.
   - title: Google Drive Has A Loophole That Allows Harassment
     url: https://www.buzzfeednews.com/article/katienotopoulos/google-drive-harassment-remove-shared
-    author: Notopoulos, Katie 
+    author: Notopoulos, K. 
     date: 2019
     source: Buzzfeed News
     pick_one: 1
   - title: Voice-based Communities and Why It’s So Hard To Moderate Them
     url: https://medium.com/acm-cscw/voice-based-communities-and-why-they-are-so-hard-to-moderate-b3339c1f0f6a
-    author: Jiang, Aaron
+    author: Jiang, A.
     date: 2019
     source: Medium
     pick_one: 1
@@ -37,7 +37,7 @@ readings:
     pick_one: 1
   - title: Early thoughts on today’s violence
     url: https://medium.com/@vickiebananas/early-thoughts-on-todays-violence-bb57d8c4df28
-    author: Chávez, Victoria C. 
+    author: Chávez, V. C. 
     date: 2022
     source: Medium
     pick_one: 1
