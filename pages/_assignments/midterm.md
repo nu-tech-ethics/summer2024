@@ -2,7 +2,7 @@
 layout: assignment
 title: "Midterm"
 abbreviation: Midterm
-due_date: 2023-04-28
+due_date: 2023-05-01
 ordering: 1
 draft: 0
 ---
