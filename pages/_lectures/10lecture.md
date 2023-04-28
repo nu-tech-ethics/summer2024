@@ -21,4 +21,5 @@ readings:
     author: Milner, Y., & Traub, A.
     date: 2020
     source: Data for Black Lives
+    notes: "No need to download the full report. Just check out the info on the website."
 ---
