@@ -7,9 +7,9 @@ draft: 0
 group: 5
 show_schedule: 1
 due_date: 2023-05-01
-# slides:
-#   - url: 
-#     title: Data Capitalism
+slides:
+  - url: https://docs.google.com/presentation/d/180KtjRc_nfTwl3hNAD0MXcsLAPWR2yp4r5GvYNJ6i1Q/edit?usp=sharing
+    title: Data Capitalism
 readings:
   - title: Oh, the Places Your Data Will Go!
     url: https://freerads.org/2020/09/18/oh-the-places-your-data-will-go/
