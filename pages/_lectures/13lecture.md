@@ -7,9 +7,6 @@ draft: 0
 group: 6
 show_schedule: 1
 due_date: 2023-05-10
-# slides:
-  # - url: 
-  #   title: 
 readings:
   - title: Earth
     url: https://canvas.northwestern.edu/files/16518422/
