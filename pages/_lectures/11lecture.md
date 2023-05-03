@@ -7,9 +7,9 @@ draft: 0
 group: 5
 show_schedule: 1
 due_date: 2023-05-03
-# slides:
-#   - url: 
-#     title: Taking Back Control
+slides:
+  - url: https://docs.google.com/presentation/d/1DkVaPi67DtZ65Iuninsg-YkoHMevXCxJAIXj8VU4O3w/edit?usp=share_link
+    title: Taking Back Control
 readings:
   - title: "The Feds Are Watching: A History of Resisting Anti-Black Surveillance"
     url: https://level.medium.com/the-feds-are-watching-a-history-of-resisting-anti-black-surveillance-b2242d6ceaad
