@@ -1,13 +1,12 @@
 ---
 layout: module
-num: 9
+num: 13
 title: "CS Extractions"
 type: lecture
 draft: 0
 group: 6
 show_schedule: 1
 due_date: 2023-05-10
-
 # slides:
   # - url: 
   #   title: 
