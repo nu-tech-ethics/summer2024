@@ -1,7 +1,7 @@
 ---
 layout: module
 num: 9
-title: ""
+title: "Land Relations"
 type: lecture
 draft: 0
 group: 6
