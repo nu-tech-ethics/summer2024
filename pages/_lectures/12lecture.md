@@ -7,9 +7,9 @@ draft: 0
 group: 6
 show_schedule: 1
 due_date: 2023-05-08
-# slides:
-#   - url: 
-#     title: Land Relations
+slides:
+  - url: https://docs.google.com/presentation/d/13EG0WzjdtHWxoZrNEb26TY8drS6PYlibnRyy4Nz_-Ek/edit?usp=sharing
+    title: Land Relations
 readings:
   - title: The Sacred and the Superfund
     url: https://canvas.northwestern.edu/files/16518426
