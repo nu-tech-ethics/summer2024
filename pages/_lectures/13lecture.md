@@ -7,6 +7,9 @@ draft: 0
 group: 6
 show_schedule: 1
 due_date: 2023-05-10
+slides:
+  - url: https://docs.google.com/presentation/d/1OFfbXMfEtXL_KKZ-JmBycxq8CtPGxvz_geQP_xs1Dec/edit?usp=sharing
+    title: CS Extraction
 readings:
   - title: Earth
     url: https://canvas.northwestern.edu/files/16518422/
