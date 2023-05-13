@@ -101,7 +101,7 @@ We are working very hard to ensure our course is as accessible as possible. If y
 
 
 ### Office Hours
-Will will post our office hours schedule during the first week of classes.
+Wednesdays at noon (on class Zoom, with Prof V), Fridays at 1pm (on class Zoom, with Prof Natalie), By appointment with either/both of us (see Canvas)
 
 ## Course Learning Goals
 
@@ -158,12 +158,3 @@ In this class, we will **NOT** be recording classes. Note from the Provost's off
 > * Faculty may assign seats in some classes to help facilitate contact tracing in the event that a student tests positive for COVID-19. Students must sit in their assigned seats.
 > 
 > If a student fails to comply with the [COVID-19 Code of Conduct](https://www.northwestern.edu/communitystandards/about-us/northwestern-university-student-expectations-covid-19-code-of-conduct.html) or other University expectations related to COVID-19, the instructor may ask the student to leave the class. The instructor is asked to report the incident to the Office of Community Standards for additional follow-up.
-
-### Exceptions to Class Modality
-> Class sessions for this course will occur in person. Individual students will not be granted permission to attend remotely except as the result of an Americans with Disabilities Act (ADA) accommodation as determined by AccessibleNU. 
-> 
-> Maintaining the health of the community remains our priority.  If you are experiencing any symptoms of COVID do not attend class and update your Symptom Tracker application right away to connect with Northwestern’s Case Management Team for guidance on next steps. Also contact the instructor as soon as possible to arrange to complete coursework.
-> 
-> Students who experience a personal emergency should contact the instructor as soon as possible to arrange to complete coursework.
-> 
-> Should public health recommendations prevent in person class from being held on a given day, the instructor or the university will notify students.
