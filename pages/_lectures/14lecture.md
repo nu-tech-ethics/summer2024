@@ -7,9 +7,9 @@ draft: 0
 group: 7
 show_schedule: 1
 due_date: 2023-05-15
-# slides:
-#   - url: https://docs.google.com/presentation/d/1OFfbXMfEtXL_KKZ-JmBycxq8CtPGxvz_geQP_xs1Dec/edit?usp=sharing
-#     title: CS Extraction
+slides:
+  - url: https://docs.google.com/presentation/d/1NxvOkVUfY0RcVD8fILoQaq3aBu6s6uyQk3A05FoQ4wY/edit?usp=sharing
+    title: Reimagining CS Education
 readings:
   - title: "We Tell These Stories to Survive: Towards Abolition in Computer Science Education"
     url: https://link.springer.com/article/10.1007/s42330-021-00158-2
