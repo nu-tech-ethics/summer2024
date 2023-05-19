@@ -12,8 +12,5 @@ due_date: 2023-05-24
 #     title: CS Extraction
 readings:
   - title: "Choose one (or more) resource(s) to explore from our resource page"
-    url: /resources
-    author: Various
-    date: Various
-    source: Various
+    url: /spring2023/resources
 ---    
