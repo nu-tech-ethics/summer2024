@@ -4,7 +4,7 @@ num: 17
 title: "Choose your own adventure"
 type: lecture
 draft: 0
-group: 8
+group: 9
 show_schedule: 1
 due_date: 2023-05-24
 # slides:
