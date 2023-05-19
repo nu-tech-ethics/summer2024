@@ -4,7 +4,7 @@ num: 16
 title: "Solutionism"
 type: lecture
 draft: 0
-group: 7
+group: 8
 show_schedule: 1
 due_date: 2023-05-22
 # slides:
