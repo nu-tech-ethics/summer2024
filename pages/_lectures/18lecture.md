@@ -10,4 +10,7 @@ due_date: 2023-05-31
 slides:
   - url: https://docs.google.com/presentation/d/1BU9m02ggVCD6Ywrrz2cLyVIl1oY84CciTuU0sX-hzGI/edit?usp=sharing
     title: Final Presentations
+readings:
+  - title: "Please complete the course CTEC"
+    url: https://canvas.northwestern.edu/courses/190379/external_tools/8871
 ---    
