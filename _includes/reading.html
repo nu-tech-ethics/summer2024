@@ -7,7 +7,9 @@
         ({{ item.date }}).
     {% endif %}
     {% assign last_char = item.title | strip | slice: -1 %}
-    {% if item.title %}
+    {% if item.url %}
+        <a href="{{ item.url }}" {% if item.internal != 1 %}target="_blank"{% endif %}>{{ item.title }}</a>
+    {% else %}
         {{ item.title }}
     {% endif %}
     {% if item.source %}
@@ -23,9 +25,6 @@
         , {{ item.pages }}
     {% endif %}
     .
-    {% if item.url %}
-        {{ item.url }}
-    {% endif %}
     
     {% if item.notes %}
         <ul><li>{{ item.notes }}</li></ul>
