@@ -7,24 +7,23 @@
         ({{ item.date }}).
     {% endif %}
     {% assign last_char = item.title | strip | slice: -1 %}
-    {% if item.url %}
-        {% if item.video_url == False %}
-            <a href="{{ item.url }}" {% if item.internal != 1 %}target="_blank"{% endif %}>{{ item.title }}</a>{% if last_char != "?" %}.{% endif %}
-        {% else %}
-            {{ item.title }}{% if last_char != "?" %}.{% endif %}
-        {% endif %}
-    {% else %}
-        {{ item.title }}{% if last_char != "?" %}.{% endif %}
+    {% if item.title %}
+        {{ item.title }}
     {% endif %}
-    
     {% if item.source %}
-        <em>{{ item.source }}.</em>
+        , <em>{{ item.source }}</em>
     {% endif %}
-    {% if item.video_url %}
-        <br>
-        <a href="{{ item.url }}" target="_blank">reading</a> &bull;
-        <a href="{{ item.video_url }}" target="_blank">video</a> 
+    {% if item.volume %}
+        <em>{{ item.volume }}</em>
     {% endif %}
+    {% if item.issue %}
+        ({{ item.issue }})
+    {% endif %}
+    {% if item.pages %}
+        , {{ item.pages }}
+    {% endif %}
+    .
+    {% if item.url %}
     {% if item.notes %}
         <ul><li>{{ item.notes }}</li></ul>
     {% endif %}
