@@ -24,7 +24,11 @@
     {% endif %}
     .
     {% if item.url %}
+        {{ item.url }}
+    {% endif %}
+    
     {% if item.notes %}
         <ul><li>{{ item.notes }}</li></ul>
     {% endif %}
+    
 </li>
