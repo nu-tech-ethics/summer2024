@@ -3,7 +3,7 @@ layout: module
 num: 2
 title: Tech Ethics
 type: lecture
-draft: 0
+draft: 1
 group: 1
 show_schedule: 1
 due_date: 2023-03-29

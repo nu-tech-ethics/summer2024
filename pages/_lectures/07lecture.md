@@ -3,7 +3,7 @@ layout: module
 num: 7
 title: "Race After Technology"
 type: lecture
-draft: 0
+draft: 1
 group: 4
 show_schedule: 1
 due_date: 2023-04-17

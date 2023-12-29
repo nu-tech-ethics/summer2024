@@ -3,7 +3,7 @@ layout: module
 num: 6
 title: "Racial Capitalism"
 type: lecture
-draft: 0
+draft: 1
 group: 3
 show_schedule: 1
 due_date: 2023-04-12

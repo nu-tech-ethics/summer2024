@@ -3,7 +3,7 @@ layout: module
 num: 14
 title: "Reimagining CS Education"
 type: lecture
-draft: 0
+draft: 1
 group: 7
 show_schedule: 1
 due_date: 2023-05-15

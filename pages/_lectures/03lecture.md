@@ -3,7 +3,7 @@ layout: module
 num: 3
 title: "Do Artifacts Have Politics?"
 type: lecture
-draft: 0
+draft: 1
 group: 2
 show_schedule: 1
 due_date: 2023-04-03

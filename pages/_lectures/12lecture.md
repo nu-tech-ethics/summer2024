@@ -3,7 +3,7 @@ layout: module
 num: 12
 title: "Land Relations"
 type: lecture
-draft: 0
+draft: 1
 group: 6
 show_schedule: 1
 due_date: 2023-05-08
