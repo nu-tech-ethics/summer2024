@@ -9,7 +9,7 @@ show_schedule: 1
 slides:
   - url: https://docs.google.com/presentation/d/1nkx4ycxf3g6MeUTZZOZ9K6hlnYqmqIVxToZsJn4sdZQ/edit?usp=sharing
     title: Intro to Computing, Ethics, and Society
-due_date: 2023-03-28
+due_date: 2024-01-04
 readings:
   - title: "Course Syllabus"
     url: /spring2023/syllabus/

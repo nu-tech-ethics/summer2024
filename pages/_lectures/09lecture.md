@@ -6,7 +6,7 @@ type: lecture
 draft: 1
 group: 4
 show_schedule: 1
-due_date: 2023-04-24
+due_date: 2024-02-01
 slides:
   - url: https://docs.google.com/presentation/d/1LFT0qNCzUWjreNa7Pzw0ixGj_H327c71jYICtCh7UGg/edit?usp=sharing
     title: Facial Recognition

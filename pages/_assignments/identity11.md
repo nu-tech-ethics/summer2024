@@ -3,7 +3,7 @@ layout: assignment
 title: "Identity Journal 11"
 abbreviation: Journal 11
 type: identity
-due_date: 2023-05-03
+due_date: 2024-02-08
 ordering: 1
 draft: 1
 ---

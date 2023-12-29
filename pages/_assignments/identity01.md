@@ -3,7 +3,7 @@ layout: assignment
 title: "Identity Journal 1"
 abbreviation: Journal 1
 type: identity
-due_date: 2023-03-28
+due_date: 2024-01-04
 ordering: 1
 draft: 1
 ---

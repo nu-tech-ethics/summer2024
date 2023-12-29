@@ -6,7 +6,7 @@ type: lecture
 draft: 1
 group: 1
 show_schedule: 1
-due_date: 2023-03-29
+due_date: 2024-01-09
 slides:
   - url: https://docs.google.com/presentation/d/1w7IOcPIIIp_TsQ8SpexlEkYE77LdADd3IZzFeJK5fnI/edit?usp=sharing
     title: Tech Ethics

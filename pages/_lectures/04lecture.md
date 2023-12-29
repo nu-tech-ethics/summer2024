@@ -6,7 +6,7 @@ type: lecture
 draft: 1
 group: 2
 show_schedule: 1
-due_date: 2023-04-05
+due_date: 2024-01-16
 slides:
   - url: https://docs.google.com/presentation/d/1L1DAdgF3ksS2FoOxW0sGHjB9bzGuQMHFrcoXWjuH2FM/edit?usp=sharing
     title: Unintended Consequences

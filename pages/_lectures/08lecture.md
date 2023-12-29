@@ -6,7 +6,7 @@ type: lecture
 draft: 1
 group: 4
 show_schedule: 1
-due_date: 2023-04-19
+due_date: 2024-01-30
 slides:
   - url: https://docs.google.com/presentation/d/1ZEFaZIF3Ddl0Jb14bYdKykAY0KlfAXsrIgsN3oNummg/edit?usp=sharing
     title: Algorithms of Oppression
