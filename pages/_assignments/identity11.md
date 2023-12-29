@@ -5,7 +5,7 @@ abbreviation: Journal 11
 type: identity
 due_date: 2023-05-03
 ordering: 1
-draft: 0
+draft: 1
 ---
 
 Reflecting on the technology you analyzed for your midterm:

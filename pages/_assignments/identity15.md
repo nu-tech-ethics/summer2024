@@ -5,7 +5,7 @@ abbreviation: Journal 15
 type: identity
 due_date: 2023-05-24
 ordering: 1
-draft: 0
+draft: 1
 ---
 
 Read through your entire journal and think about your experiences in the class.

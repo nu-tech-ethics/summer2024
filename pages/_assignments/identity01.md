@@ -5,7 +5,7 @@ abbreviation: Journal 1
 type: identity
 due_date: 2023-03-28
 ordering: 1
-draft: 0
+draft: 1
 ---
 
 ## Journal Setup
