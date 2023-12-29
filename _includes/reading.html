@@ -8,7 +8,7 @@
     {% endif %}
     {% assign last_char = item.title | strip | slice: -1 %}
     {% if item.url %}
-        <a href="{{ item.url }}" {% if item.internal != 1 %}target="_blank"{% endif %}>{{ item.title }}</a>
+        <a href="{{ item.url }}">{{ item.title }}</a>
     {% else %}
         {{ item.title }}
     {% endif %}
