@@ -131,6 +131,7 @@ layout: default
                         {{assignment.title}}  
                     {% endif %}
                 {% endif %}
+                {% unless forloop.last %}, {% endunless %}
             {% endfor %}
         </td>
     </tr>

@@ -130,6 +130,7 @@
                     {% else %} 
                         <a href="{{site.baseurl}}{{assignment.url}}">{{title}}</a>  
                     {% endif %}
+                    {% unless forloop.last %}, {% endunless %}
                 {% endfor %}
             </td>
         </tr>
