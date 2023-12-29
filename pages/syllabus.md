@@ -3,17 +3,16 @@ layout: syllabus
 title: Syllabus
 type: page
 permalink: /syllabus/
-course: "CS 396/496 | LS 351/451: Computing, Ethics, and Society"
-professor: Natalie Araujo Melo (Prof Natalie/any pronouns) & Victoria C. Chávez (Prof V/they/she)
-pms: Jack Burkhardt (Jack/they/he); sahibzada mayed (mayed, any pronouns); Naomi Wu (Naomi/she/her)
-class_time: Mondays and Wednesdays, 2:00pm - 3:20pm
+course: "CS 396/496 | LS 351: Computing, Ethics, and Society"
+professor: Victoria C. Chávez (Prof V/they/she)
+pms: Rina and Danny
+class_time: Tuesdays and Thursdays, 9:30am - 10:50am
 class_location: Zoom (see Canvas for link)
-office_hours: Wednesdays at noon (on class Zoom, with Prof V), Fridays at 1pm (on class Zoom, with Prof Natalie), By appointment with either/both of us (see Canvas)
+office_hours: TBD
 include_covid_statement: 1
 ---
 
-## About the Course
-### Why should we care about ethical questions with respect to technology?
+## Course Description and Importance
 Computing technologies shape our personal, social, and political lives in increasingly complex and consequential ways – providing tremendous benefits (e.g. convenient access to information, connecting to one another across time and space) and harms (e.g. biased decision-making, mass surveillance, disinformation campaigns, and exclusion from critical material opportunities) that are important to examine and understand. 
 
 At the same time, these technologies are born and shaped by the societies in which they are developed. Thus, grappling with the ethics of technologies (i.e considering the harms and benefits, how and why they were created in the first place, and how and to what ends they are used) is important not only for ultimately creating more moral technologies but a more moral society. Thus, our approach to the ethics of computing technologies requires a multifaceted assessment of their harm and benefit to our individual, cultural, and political lives, and simultaneously a critical examination of the values, ideologies, and contexts through which computing technologies emerge. 
@@ -30,28 +29,29 @@ The course is open to all students. For CS majors, minors, and graduate students
 ## Acknowledgements
 This course was originally developed in collaboration with Dr. Sepehr Vakil, Dr. Sarah Van Wart, and Natalie Araujo Melo.
 
-## Course Format
-The course format will consist of:
-1. Readings and in-class discussions.
-2. In-class activities to help students to consider the potential impacts of different kinds of technologies and design decisions.
-3. Reflective writing assignments that will ask you to analyze the social and ethical dimensions of contemporary technology debates.
-
 ## Required Texts
-All assigned readings will be available via Canvas as PDFs. We will be reading chapters from several different books (in Chronological Order):
+All assigned readings will be available via Canvas as PDFs, no purchase required. If you would like to dive more in-depth into the topics we learn about, below are the books we will be reading chapters from (in chronological order):
 
 1. Benjamin, R. (2019). <a href="https://www.ruhabenjamin.com/race-after-technology">Race After Technology: Abolitionist Tools for the New Jim Code</a>. John Wiley & Sons.
     * You may purchase it (recommended), of you can access it <a href="https://ebookcentral.proquest.com/lib/northwestern/detail.action?docID=5820427">online through the Northwestern Library</a>.
-2. Crawford, Kate (2021). <a href="">Atlas of AI</a>. Yale University Press. 
+1. Crawford, Kate (2021). <a href="">Atlas of AI</a>. Yale University Press. 
     * Available through <a href="https://www-jstor-org.turing.library.northwestern.edu/stable/j.ctv1ghv45t">Northwestern's JSTOR access</a>.
-3. Costanza-Chock, Sasha (2020). <a href="https://design-justice.pubpub.org/">Design Justice</a>. The MIT Press.
+1. Costanza-Chock, Sasha (2020). <a href="https://design-justice.pubpub.org/">Design Justice</a>. The MIT Press.
     * Open access (yay!)
 
 ## Course Format & Grading
 The course format will consist of:
+1. Readings and in-class discussions.
+1. In-class activities to help students to consider the potential impacts of different kinds of technologies and design decisions.
+1. Reflective writing assignments that will ask you to analyze the social and ethical dimensions of contemporary technology debates.
 
+### Office Hours
+TBD
+
+Course grades will be composed of:
 1. Participation (40%)
-2. Midterm (30%)
-3. Final project or paper (30%)
+1. Midterm (30%)
+1. Final project or paper (30%)
 
 ### 1. Participation (40%)
 Your participation grade will be based on attendance, and on evidence that you are engaging with the readings (as shown through your in-class participation as well as through your Identity Journal entries).
@@ -90,6 +90,8 @@ You may work individually or in groups of no more than three people.
 We will not be using the final exam time for this class because there is no midterm or final exam. Final grades are assigned on a fixed scale: 93-100 is an A, 90-92.99 is an A-, 87-89.99 is a B+, etc. Final course grades will not be curved.  
 
 ## Expectations
+We are working very hard to ensure our course is as accessible as possible. If you have any suggestions for how we can make the course more accessible, please reach out to us. If you have any AccessibleANU accommodations, please contact us as soon as possible so that we may work together to support your success in this course. 
+
 * You will come to class prepared and ready to engage in an intellectual discussion about the readings.
 * You will complete all assignments on time and with interest, engagement, and intellectual curiosity.
 * You will bring your unique expertise, perspectives, and experiences to class and share them with others, so that we might all gain from your perspectives.
@@ -97,14 +99,7 @@ We will not be using the final exam time for this class because there is no midt
 * You will give your classmates the benefit of the doubt (about their competence and intentions) and can expect the same from them.
 * All work that you submit will be your own original work; you will cite others’ work where appropriate. 
 
-We are working very hard to ensure our course is as accessible as possible. If you have any suggestions for how we can make the course more accessible, please reach out to us. If you have any AccessibleANU accommodations, please contact us as soon as possible so that we may work together to support your success in this course. 
-
-
-### Office Hours
-Wednesdays at noon (on class Zoom, with Prof V), Fridays at 1pm (on class Zoom, with Prof Natalie), By appointment with either/both of us (see Canvas)
-
 ## Course Learning Goals
-
 {:#goal-1}
 ### 1. Recognize the impact of one’s own assumptions, biases, and experiences
 Students will appreciate and understand how their own assumptions, experiences, worldviews, social location, and identity categories can and do impact the design, implementation, and use of computing technologies. Our hope is that students across a range of majors will become more conscious, sensitive, ethically aware, and humble thinkers/doers in the world.
@@ -125,7 +120,7 @@ Students will develop mental models for considering when, how, or even if techno
 ### 5. Evaluate one’s individual and communal ethical participation in the world
 Lastly, students will formulate ideas (or strengthen existing ones) around responsibility and care; specifically, how they might use their own and their community’s knowledge, skills, dispositions, and creativity to participate in the world going forward. This may involve taking some future action (big or small), calling others in or out, exploring a new idea, reading more about a topic, or something else, towards fostering a more ethical and just society.
 
-## Syllabus Statements from the Provost's Office
+## Course and University Policies
 Below, we have also included the following statements, written by the <a href="https://www.registrar.northwestern.edu/faculty-staff/syllabi.html" target="_blank">Provost's office</a>:
 
 ### Academic Integrity

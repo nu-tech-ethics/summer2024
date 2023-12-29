@@ -92,7 +92,7 @@ layout: default
                     </h4>
                 {% endif %}
 
-                {% if lecture.readings %}
+                {% if lecture.readings and lecture.draft == 0 %}
                     {% assign page = lecture %}
                     {% assign hide_optional = 1 %}
                     {% include page_readings.html %} 
@@ -131,6 +131,7 @@ layout: default
                         {{assignment.title}}  
                     {% endif %}
                 {% endif %}
+                {% unless forloop.last %}, {% endunless %}
             {% endfor %}
         </td>
     </tr>

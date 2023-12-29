@@ -2,9 +2,9 @@
 layout: assignment
 title: "Midterm"
 abbreviation: Midterm
-due_date: 2023-05-01
+due_date: 2024-02-06
 ordering: 1
-draft: 0
+draft: 1
 ---
 ## Instructions
 Using **at least 3** of the academic sources we have read so far, develop a conceptual framework that articulates your unique perspective on technology:

@@ -3,10 +3,10 @@ layout: module
 num: 11
 title: "Taking Back Control"
 type: lecture
-draft: 0
+draft: 1
 group: 5
 show_schedule: 1
-due_date: 2023-05-03
+due_date: 2024-02-08
 slides:
   - url: https://docs.google.com/presentation/d/1DkVaPi67DtZ65Iuninsg-YkoHMevXCxJAIXj8VU4O3w/edit?usp=share_link
     title: Taking Back Control

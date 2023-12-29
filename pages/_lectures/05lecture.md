@@ -3,10 +3,10 @@ layout: module
 num: 5
 title: "Intro to CRT"
 type: lecture
-draft: 0
+draft: 1
 group: 3
 show_schedule: 1
-due_date: 2023-04-10
+due_date: 2024-01-18
 slides:
   - url: https://docs.google.com/presentation/d/1sZ80k_z_UoUaOMCQCcpMwMej6zAcEPnqMoMXafbNwxk/edit?usp=sharing
     title: Intro to CRT

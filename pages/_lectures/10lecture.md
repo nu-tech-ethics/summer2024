@@ -3,10 +3,10 @@ layout: module
 num: 10
 title: "Data Capitalism"
 type: lecture
-draft: 0
+draft: 1
 group: 5
 show_schedule: 1
-due_date: 2023-05-01
+due_date: 2024-02-06
 slides:
   - url: https://docs.google.com/presentation/d/180KtjRc_nfTwl3hNAD0MXcsLAPWR2yp4r5GvYNJ6i1Q/edit?usp=sharing
     title: Data Capitalism

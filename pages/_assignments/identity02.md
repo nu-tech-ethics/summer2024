@@ -3,9 +3,9 @@ layout: assignment
 title: "Identity Journal 2"
 abbreviation: Journal 2
 type: identity
-due_date: 2023-03-29
+due_date: 2024-01-09
 ordering: 1
-draft: 0
+draft: 1
 ---
 
 Share your thoughts on the following:
