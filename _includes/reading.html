@@ -3,28 +3,14 @@
     {% if item.author or item.authors %}
         {{ item.author }}{{ item.authors }}
     {% endif %}
+    
     {% if item.date %}
         ({{ item.date }}).
     {% endif %}
+    
     {% assign last_char = item.title | strip | slice: -1 %}
-    {% if item.url %}
-        <a href="{{ item.url }}">{{ item.title }}</a>
-    {% else %}
-        {{ item.title }}
-    {% endif %}
-    {% if item.source %}
-        , <em>{{ item.source }}</em>
-    {% endif %}
-    {% if item.volume %}
-        <em>{{ item.volume }}</em>
-    {% endif %}
-    {% if item.issue %}
-        ({{ item.issue }})
-    {% endif %}
-    {% if item.pages %}
-        , {{ item.pages }}
-    {% endif %}
-    .
+    
+    {% if item.url %}<a href="{{ item.url }}">{{ item.title }}</a>{% else %}{{ item.title }}{% endif %}{% if item.source %}, <em>{{ item.source }}</em>{% endif %}{% if item.volume %}<em>{{ item.volume }}</em>{% endif %}{% if item.issue %}({{ item.issue }}){% endif %}{% if item.pages %}, {{ item.pages }}{% endif %}.
     
     {% if item.notes %}
         <ul><li>{{ item.notes }}</li></ul>
