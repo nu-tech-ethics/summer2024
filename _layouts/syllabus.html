@@ -7,7 +7,7 @@
         {% include header.html %}
         {% include navigation.html %}
         {% capture schedule_simple %}{% include schedule-simple.html %}{% endcapture %}
-        {% assign all_content = schedule_simple | append: content %}
+        {% assign all_content = schedule_simple | prepend: content %}
         <main>
             <aside>
                 {% include toc.html html=all_content class='side-menu' ordered=true %}
@@ -51,10 +51,10 @@
                 {% if page.include_covid_statement %}
                     {% include covid_statement.html %}
                 {% endif %}
-
-                {{ schedule_simple }}
                                 
                 {{ content }}
+
+                {{ schedule_simple }}
 
             </article>  
         </main>
