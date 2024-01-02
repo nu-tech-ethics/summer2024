@@ -20,7 +20,7 @@ email: vcchavez@u.northwestern.edu
 description: >- # this means to ignore newlines until "baseurl:"
   Course site for Northestern's Computing, Ethics, & Society course.
 baseurl: "/winter2024-vcc"
-term_start_date: "2024-01-03"
+term_start_date: "2024-01-01"
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll

@@ -23,24 +23,26 @@ layout: default
             </tbody></table>
         {% endif %}
         <h2>
-            {% if lecture.group == 1 %}
-                I. Ethics, Morality, and Justice
+            {% if lecture.group == 101 %}
+                I. Course Introduction
+            {% elsif lecture.group == 1 %}
+                II. Ethics, Morality, and Justice
             {% elsif lecture.group == 2 %}
-                II. STS: Science and Technology Studies
+                III. STS: Science and Technology Studies
             {% elsif lecture.group == 3 %}
-                III. CRT: Critical Race Theory
+                IV. CRT: Critical Race Theory
             {% elsif lecture.group == 4 %}
-                IV. Critical Race Code Studies
+                V. Critical Race Code Studies
             {% elsif lecture.group == 5 %}
-                V. Surveillance // Control
+                VI. Surveillance // Control
             {% elsif lecture.group == 6 %}
-                VI. Land // Extraction
+                VII. Land // Extraction
             {% elsif lecture.group == 7 %}
-                VII. Critical Hope
+                VIII. Critical Hope
             {% elsif lecture.group == 8 %}
-                VIII. Solutionism
+                IX. Solutionism
             {% else %}
-                IX. Your Choice
+                X. Your Choice
             {% endif %}
         </h2>
         <table>
@@ -98,11 +100,8 @@ layout: default
                     {% include page_readings.html %} 
                 {% endif %}
             </td>
-            <!-- <td>
-            </td> -->
         {% else %}
             <td></td>
-            <!-- <td></td> -->
         {% endif %}
         <td>
             {% assign assignments = site.assignments | where: 'due_date', date %}
