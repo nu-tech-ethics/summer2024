@@ -9,7 +9,7 @@ pms: Rina (she/her) and Danny (he/him)
 ta: Alexis (they/them)
 class_time: Tuesdays and Thursdays, 9:30am - 10:50am
 class_location: Zoom (see Canvas for link)
-office_hours: TBD
+office_hours: TBD and by appointment with <a href="https://calendly.com/vcchavez/">Prof V</a> or <a href="https://calendly.com/alexispapak/">Alexis</a>
 include_covid_statement: 1
 ---
 
@@ -88,7 +88,7 @@ For your final assignment in this class, we want to push you to think about how 
 You may work individually or in groups of no more than three people. 
 
 ### Other Grading Logistics
-We will not be using the final exam time for this class because there is no midterm or final exam. Final grades are assigned on a fixed scale: 93-100 is an A, 90-92.99 is an A-, 87-89.99 is a B+, etc. Final course grades will not be curved.  
+We will not be using the final exam time for this class because there is no final exam. Final grades are assigned on a fixed scale: 93-100 is an A, 90-92.99 is an A-, 87-89.99 is a B+, etc. Final course grades will not be curved.  
 
 ## Expectations
 We are working very hard to ensure our course is as accessible as possible. If you have any suggestions for how we can make the course more accessible, please reach out to us. If you have any AccessibleANU accommodations, please contact us as soon as possible so that we may work together to support your success in this course. 
