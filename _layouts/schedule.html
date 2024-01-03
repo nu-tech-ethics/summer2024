@@ -48,7 +48,7 @@ layout: default
         <table>
             <thead>
                 <tr>
-                    <th></th>
+                    <th>Week</th>
                     <th>Date</th>
                     <th>Topic & Readings</th>
                     <th>Due</th>
@@ -73,7 +73,7 @@ layout: default
         </td>
         {% if lecture %}
             <td>
-                {% assign prefix = "Lesson " | append: lecture.num %}
+                {% assign prefix = "Day " | append: lecture.num %}
                 {% assign className = "lec" %}
                 {% if lecture.type == 'lab' %}
                     {% assign prefix = lecture.abbreviation %}
@@ -97,6 +97,7 @@ layout: default
                 {% if lecture.readings and lecture.draft == 0 %}
                     {% assign page = lecture %}
                     {% assign hide_optional = 1 %}
+                    <br><br>Please complete the following readings BEFORE class:
                     {% include page_readings.html %} 
                 {% endif %}
             </td>
