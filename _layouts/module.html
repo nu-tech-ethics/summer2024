@@ -6,6 +6,12 @@ show_schedule: 1
 
 {{content}}
 
+{% if page.readings %}
+    <h2 id="readings">Readings (complete BEFORE class)</h2>
+    {% include page_readings.html %} 
+    {% assign num = num | plus: 1 %}
+{% endif %}
+
 {% if page.exercise_url %}
     <h3 id="code">{{num}}. Download the Exercise Files</h3> 
     <a class="nu-button" href="{{site.baseurl}}/course-files/lectures/{{page.exercise_url}}" target="_blank">
@@ -78,12 +84,6 @@ show_schedule: 1
             </tbody>
         </table>
     {% endif %}
-{% endif %}
-
-{% if page.readings %}
-    <h2 id="readings">Readings</h2>
-    {% include page_readings.html %} 
-    {% assign num = num | plus: 1 %}
 {% endif %}
 
 
