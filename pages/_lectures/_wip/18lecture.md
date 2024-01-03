@@ -4,7 +4,7 @@ num: 18
 title: "Final Presentations"
 type: lecture
 draft: 1
-group: 9
+group: 10
 show_schedule: 1
 due_date: 2024-03-05
 slides:

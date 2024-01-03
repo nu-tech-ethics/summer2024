@@ -12,5 +12,5 @@ slides:
     title: Your Choice
 readings:
   - title: "Choose one (or more) resource(s) to explore from our resource page"
-    url: /spring2023/resources
+    url: /winter2024-vcc/resources
 ---    

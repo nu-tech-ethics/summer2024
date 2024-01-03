@@ -1,7 +1,7 @@
 ---
 layout: module
 num: 5
-title: "Intro to CRT"
+title: "Race as a System"
 type: lecture
 draft: 1
 group: 3
