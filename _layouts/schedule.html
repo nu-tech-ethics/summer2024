@@ -51,6 +51,7 @@ layout: default
                     <th>Week</th>
                     <th>Date</th>
                     <th>Topic & Readings</th>
+                    <th>Slides</th>
                     <th>Due</th>
                 </tr>
             </thead>
@@ -79,20 +80,12 @@ layout: default
                     {% assign prefix = lecture.abbreviation %}
                     {% assign className = "lab" %}
                 {% endif %}
-                {% if lecture.draft == 1 %}
-                    <h4 class="anchor" id="lecture_{{lecture.num}}">
-                        {% if lecture.type == 'lab' %}
-                            {{prefix}}:
-                        {% endif %}
-                        {{ lecture.title}}</h4>
-                {% else %} 
-                    <h4 class="anchor" id="lecture_{{lecture.num}}">
-                        <a class="{{ className }}" href="{{site.baseurl}}{{lecture.url}}">
-                            {{ prefix }} <i class="fa fa-link"></i>
-                        </a>
-                        {{ lecture.title}}
-                    </h4>
-                {% endif %}
+
+                <h4 class="anchor" id="lecture_{{lecture.num}}">
+                    {% if lecture.type == 'lab' %}
+                        {{prefix}}:
+                    {% endif %}
+                    {{ lecture.title}}</h4>
 
                 {% if lecture.readings and lecture.draft == 0 %}
                     {% assign page = lecture %}
@@ -104,6 +97,18 @@ layout: default
         {% else %}
             <td></td>
         {% endif %}
+        <td>
+            {% if lecture and lecture.draft == 0 and lecture.slides %}
+                {% assign num = num | plus: 1 %}
+                {% for slide in lecture.slides %}
+                     <h4 class="anchor" id="lecture_{{lecture.num}}">
+                <a class="{{ className }}" href={{slide.url}}>
+                    {{ prefix }} <i class="fa fa-link"></i>
+                </a>
+            </h4>
+                {% endfor %}
+            {% endif %}
+        </td>
         <td>
             {% assign assignments = site.assignments | where: 'due_date', date %}
             {% for assignment in assignments %}
