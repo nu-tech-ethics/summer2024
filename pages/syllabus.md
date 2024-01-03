@@ -5,7 +5,8 @@ type: page
 permalink: /syllabus/
 course: "CS 396/496 | LS 351: Computing, Ethics, and Society"
 professor: Victoria C. Chávez (Prof V/they/she)
-pms: Rina and Danny
+pms: Rina (she/her) and Danny (he/him)
+ta: Alexis (they/them)
 class_time: Tuesdays and Thursdays, 9:30am - 10:50am
 class_location: Zoom (see Canvas for link)
 office_hours: TBD
