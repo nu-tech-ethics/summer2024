@@ -1,5 +1,5 @@
 ---
-layout: module
+layout: lecture
 num: 2
 title: Tech Ethics
 type: lecture

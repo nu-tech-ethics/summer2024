@@ -1,18 +1,18 @@
 ---
 layout: module
-num: 13
-title: "CS Extractions"
+num: 2
+title: "Land Extractions"
 type: lecture
-draft: 1
-group: 6
+draft: 0
+group: 1
 show_schedule: 1
-due_date: 2024-02-15
-slides:
-  - url: https://docs.google.com/presentation/d/1OFfbXMfEtXL_KKZ-JmBycxq8CtPGxvz_geQP_xs1Dec/edit?usp=sharing
-    title: CS Extraction
+due_date: 2024-01-09
+# slides:
+#   - url: https://docs.google.com/presentation/d/1OFfbXMfEtXL_KKZ-JmBycxq8CtPGxvz_geQP_xs1Dec/edit?usp=sharing
+#     title: CS Extraction
 readings:
   - title: Earth
-    url: https://canvas.northwestern.edu/files/16518422/
+    url: https://canvas.northwestern.edu/files/18080441/
     author: Crawford, K.
     date: 2021
     source: The Atlas of AI
