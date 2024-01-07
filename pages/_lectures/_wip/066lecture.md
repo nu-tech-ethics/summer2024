@@ -6,10 +6,10 @@ type: lecture
 draft: 1
 group: 1
 show_schedule: 1
-due_date: 2024-01-09
-slides:
-  - url: https://docs.google.com/presentation/d/1w7IOcPIIIp_TsQ8SpexlEkYE77LdADd3IZzFeJK5fnI/edit?usp=sharing
-    title: Tech Ethics
+due_date: 2024-01-16
+# slides:
+#   - url: https://docs.google.com/presentation/d/1w7IOcPIIIp_TsQ8SpexlEkYE77LdADd3IZzFeJK5fnI/edit?usp=sharing
+#     title: Tech Ethics
 readings:
   - title: Oh No, Not Another Trolley! On the Need for a Co-Liberative Consciousness in CS Pedagogy (Intro only)
     url: https://canvas.northwestern.edu/files/16202249
@@ -17,7 +17,7 @@ readings:
     date: 2022
     source: IEEE Journals & Magazine
   - title: "(PAPER) From Ethics Washing to Ethics Bashing: A View on Tech Ethics from Within Moral Philosophy"
-    url: https://canvas.northwestern.edu/files/16202252
+    url: https://ieeexplore.ieee.org/document/9684746
     author: Bietti, E.
     date: 2021
     source: SSRN Electronic Journal
