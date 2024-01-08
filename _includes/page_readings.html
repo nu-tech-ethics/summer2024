@@ -1,5 +1,8 @@
 {% assign optional = 0 %}
 {% assign pick_one = 0 %}
+{% assign add_pick_one = 0 %}
+
+<br><br>Please complete the following readings BEFORE class:
 
 <ul class="readings">
 {% for item in page.readings %}
@@ -7,6 +10,8 @@
         {% assign optional = 1 %}
     {% elsif item.pick_one == 1 %}
         {% assign pick_one = 1 %}
+    {% elsif item.add_pick_one == 1 %}
+        {% assign add_pick_one = 1 %}
     {% else %}
         {% include reading.html %} 
     {% endif %}
@@ -19,6 +24,17 @@
     <ul class="readings">
     {% for item in page.readings %}
         {% if item.pick_one == 1 %}
+            {% include reading.html %} 
+        {% endif %}
+    {% endfor %}
+    </ul>
+{% endif %}
+
+{% if add_pick_one == 1 %}
+    <div class="optional-readings">Additionally, choose one (or more!) of the readings below to also complete BEFORE class:</div>
+    <ul class="readings">
+    {% for item in page.readings %}
+        {% if item.add_pick_one == 1 %}
             {% include reading.html %} 
         {% endif %}
     {% endfor %}

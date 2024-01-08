@@ -16,5 +16,18 @@ readings:
     author: Brashear, R.
     date: 2013
     source: New Day Films
+
+  - title: Common Cyborg
+    url: https://granta.com/common-cyborg
+    author: Weise, J.
+    date: 2018
+    source: Granta
+    add_pick_one: 1
+  - title: "When Things Go Beep in the Night: The AI system that is keeping me alive is ruining my life"
+    url: https://medium.com/datasociety-points/when-things-go-beep-in-the-night-85318c59b90d
+    author: Forlano, L.
+    date: 2023
+    source: "Data & Society: Points"
+    add_pick_one: 1
 ---
 

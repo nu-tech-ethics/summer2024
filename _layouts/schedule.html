@@ -90,7 +90,6 @@ layout: default
                 {% if lecture.readings and lecture.draft == 0 %}
                     {% assign page = lecture %}
                     {% assign hide_optional = 1 %}
-                    <br><br>Please complete the following readings BEFORE class:
                     {% include page_readings.html %} 
                 {% endif %}
             </td>
