@@ -1,21 +1,45 @@
 ---
-layout: assignment
+layout: assignment-two-column
 title: "Midterm"
 abbreviation: Midterm
 due_date: 2024-02-01
 ordering: 1
-draft: 1
+draft: 0
 ---
 ## Instructions
-Using **at least 3** of the academic sources we have read so far, develop a conceptual framework that articulates your unique perspective on technology:
-- Your conceptual framework should integrate theoretical arguments from the readings covered thus far and your own personal identity and experience in the world. 
-- Ultimately, your conceptual framework should be useful, and productive. You will draw upon it to conduct a sociopolitical analysis of your technology. 
-- Your analysis will be designed to shed light on questions such as: 
-  - What values do this technology reflect, embrace, reject, or encourage? 
-  - Who is affected by its design? How was its design affected by society? 
-  - Who reaps the benefits, and who suffers the costs of its creation and use? 
+Develop a conceptual framework that draws on the readings as well as your identity to articulate your unique perspective on a **specific technology**. That is, 
+1. you will choose **a single technology** that you would like to analyze, 
+2. you will develop a framework based on theoretical arguments from **at least 3 of the readings** covered thus far _and_ **your own personal identity and experience** in the world, 
+3. you will **apply your framework** to analyze your chosen technology. 
 
-Your paper should be 5-6 pages double spaced, 12-point font, Times New Roman. Follow [APA guidelines](https://owl.purdue.edu/owl/research_and_citation/apa6_style/index.html) for formatting and references. 
+### Format
+Your analysis may be in **written or video form** and must include citations of any quotes or ideas used as well as a bibliography. Your bibliography does not count towards the page/time requirement/limit. Please submit on Canvas:
+- A 6-7 page double spaced paper using 12-point Times New Roman font OR
+- A 15-20 minute video presentation using slides, Prezi, Canva, or another visual aid
+
+### Citations
+Follow [APA guidelines](https://owl.purdue.edu/owl/research_and_citation/apa6_style/index.html) for formatting and references:
+- Include an [APA style bibliography](https://owl.purdue.edu/owl/research_and_citation/apa_style/apa_formatting_and_style_guide/reference_list_basic_rules.html) at end of writeup or as slide at end of video
+- **Written submissions** should use any combination of:
+  - [In-text citations](https://owl.purdue.edu/owl/research_and_citation/apa_style/apa_formatting_and_style_guide/in_text_citations_the_basics.html) 
+  - Hyperlinks of names ([like this example](https://points.datasociety.net/how-to-cite-like-a-badass-tech-feminist-scholar-of-color-ebc839a3619c))
+- **Video submissions** should use any combination of:
+  - Verbal or textual cues (i.e., “According to Winner in ‘Do Artifacts have Politics…” while speaking)
+  - [In-text citations](https://owl.purdue.edu/owl/research_and_citation/apa_style/apa_formatting_and_style_guide/in_text_citations_the_basics.html) when using slides
+  - Video annotations ([like this example](https://www.youtube.com/watch?v=d3rS7I6Xyz8))
+
+## Tips and Examples
+
+Ultimately, your conceptual framework should be useful, and productive. You will draw upon it to conduct a **sociopolitical analysis of your chosen technology**. For example, your analysis could be designed to shed light on questions such as: 
+- What values do this technology reflect, embrace, reject, or encourage? 
+- Who is affected by its design? How was its design affected by society? 
+- Who reaps the benefits, and who suffers the costs of its creation and use? 
+
+Examples ([published in BreakPoint Journal](https://tree-in-education.github.io/BreakPointNU/index.html)):
+- E-Scooters in Chicago: A Cautionary Tale e-scooters
+  - "This paper seeks to understand the values and attitudes that have shaped the implementation of e-scooter technology in Chicago, and their subsequent impact on society. In the process, we will also examine the interplay of public policy and technological advancement, and the politics embedded in society’s interaction with technology."
+- Blue Emergency Lights: An Investment in White Supremacist Surveillance on College Campuses
+  - "I maintain there is an alternative intention; blue emergency lights are a measure of surveillance to increase the perceived safety of students through the exile, policing, and surveillance of Black and brown people."
 
 ## Rubric
 
