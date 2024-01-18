@@ -17,5 +17,11 @@ readings:
     date: 1980
     source: Daedalus
     notes: Feel free to <a href="https://youtu.be/kicl0pXAJYQ">watch this video</a> as a primer (but not substitute!) to the article
+  - title: "Measuring Justice: Field Notes on Algorithmic Impact Assessments"
+    url: https://medium.com/datasociety-points/measuring-justice-field-notes-on-algorithmic-impact-assessments-c6cfeccc668d
+    author: Kneese, T.
+    date: 2024
+    source: "Data & Society: Points"
+    optional: 1
 ---
 
