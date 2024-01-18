@@ -7,9 +7,9 @@ draft: 0
 group: 1
 show_schedule: 1
 due_date: 2024-01-11
-# slides:
-#   - url: https://docs.google.com/presentation/d/1OFfbXMfEtXL_KKZ-JmBycxq8CtPGxvz_geQP_xs1Dec/edit?usp=sharing
-#     title: CS Extraction
+slides:
+  - url: https://docs.google.com/presentation/d/1slTt-TLEpe1F_rq_M7jhHIboYQQm-S-fUumYtFdg7L4/edit?usp=sharing
+    title: Human Relations
 readings:
   - title: The Story of Electronics
     url: https://www.storyofstuff.org/movies/story-of-electronics/
