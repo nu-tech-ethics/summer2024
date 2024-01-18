@@ -20,7 +20,7 @@
 
 
 {% if pick_one == 1 %}
-    <div class="optional-readings">Pick One of the Following:</div>
+    <div class="optional-readings">Pick one (or more!) of the following to complete before class</div>
     <ul class="readings">
     {% for item in page.readings %}
         {% if item.pick_one == 1 %}
