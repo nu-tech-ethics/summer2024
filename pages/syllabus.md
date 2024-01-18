@@ -9,7 +9,7 @@ pms: Rina (she/her) and Danny (he/him)
 ta: Alexis (they/them)
 class_time: Tuesdays and Thursdays, 9:30am - 10:50am
 class_location: Zoom (see Canvas for link)
-office_hours: TBD and by appointment with <a href="https://calendly.com/vcchavez/">Prof V</a> or <a href="https://calendly.com/alexispapak/">Alexis</a>
+office_hours: 4-5pm on Mondays (w/ Danny) and Tuesdays (w/ Rina) on the course Zoom (see Canvas for link) and by appointment with <a href="https://calendly.com/vcchavez/">Prof V</a> or <a href="https://calendly.com/alexispapak/">Alexis</a>
 include_covid_statement: 1
 ---
 
