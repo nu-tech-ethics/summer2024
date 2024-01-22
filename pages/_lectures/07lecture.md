@@ -1,9 +1,9 @@
 ---
 layout: lecture
 num: 7
-title: The Application of Race
+title: Applications of Race
 type: lecture
-draft: 1
+draft: 0
 group: 3
 show_schedule: 1
 due_date: 2024-01-25
@@ -38,17 +38,17 @@ readings:
     date: 1989
     source: Peace and Freedom Magazine
     optional: 1
-  - title: Whose culture has capital?
-    url: https://thrive.arizona.edu/sites/default/files/Whose%20culture%20has%20capital_A%20critical%20race%20theory%20discussion%20of%20community%20cultural%20wealth_1.pdf
-    author: Yosso, T. J.
-    date: 2005
-    source: Race, Ethnicity and Education
-    optional: 1
   - title: Become an Anti-Racist [Video Playlist]
     url: https://www.youtube.com/playlist?list=PLps4TPCS5y3KhC1HwU-AjTPPl8YgDnfsW
     author: Multiple Authors
     date: Multiple Years
     source: YouTube
+    optional: 1
+  - title: Whose culture has capital?
+    url: https://thrive.arizona.edu/sites/default/files/Whose%20culture%20has%20capital_A%20critical%20race%20theory%20discussion%20of%20community%20cultural%20wealth_1.pdf
+    author: Yosso, T. J.
+    date: 2005
+    source: Race, Ethnicity and Education
     optional: 1
 
 ---

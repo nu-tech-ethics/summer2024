@@ -1,6 +1,6 @@
 ---
 layout: lecture
-num: 5
+num: 6
 title: The Creation of Race
 type: lecture
 draft: 0
