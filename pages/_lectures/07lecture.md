@@ -1,7 +1,7 @@
 ---
 layout: lecture
 num: 7
-title: Applications of Race
+title: Implications of Race
 type: lecture
 draft: 0
 group: 3
