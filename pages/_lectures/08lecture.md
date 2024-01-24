@@ -1,0 +1,26 @@
+---
+layout: lecture
+num: 8
+title: Tech Ethics & Moral Philosophy
+type: lecture
+draft: 0
+group: 4
+show_schedule: 1
+due_date: 2024-01-30
+# slides:
+#   - url: https://docs.google.com/presentation/d/1w7IOcPIIIp_TsQ8SpexlEkYE77LdADd3IZzFeJK5fnI/edit?usp=sharing
+#     title: Tech Ethics
+readings:
+  - title: "From Ethics Washing to Ethics Bashing: A View on Tech Ethics from Within Moral Philosophy"
+    author: Bietti, E.
+    date: 2021
+    source: SSRN Electronic Journal (Paper) | Centre for Ethics (Video)
+    notes: "You may choose to <a href='https://ieeexplore.ieee.org/document/9684746'>read the paper</a> or <a href='https://www.youtube.com/watch?v=6Z-U6zkAHCA'>watch the author's lecture on it</a>."
+  - title: Oh No, Not Another Trolley! On the Need for a Co-Liberative Consciousness in CS Pedagogy
+    url: https://ieeexplore.ieee.org/document/9444345
+    author: Williams, R., Smarr, S., Prioleau, D., & Gilbert, J. E.
+    date: 2022
+    source: IEEE Journals & Magazine
+    notes: Only read the intro.
+---
+
