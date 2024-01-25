@@ -11,12 +11,6 @@ slides:
   - url: https://docs.google.com/presentation/d/1LN3qeoZnZegGh4iVdpUM-HiTcV2FyF-qjGqbb_Ox-Fo/edit?usp=sharing
     title: Solutionism
 readings:
-  - title: "Against Solutionism"
-    url: https://www.youtube.com/watch?v=uhU0hRng-eE
-    author: Morozov, E.
-    date: 2014
-    source: DLD Conference
-    
   - title: "Pause Giant AI Experiments: An Open Letter"
     url: https://futureoflife.org/open-letter/pause-giant-ai-experiments/
     author: Future of Life Institute

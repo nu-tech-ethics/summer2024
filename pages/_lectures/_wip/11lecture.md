@@ -16,9 +16,4 @@ readings:
     author: Browne, S.
     date: 2020
     source: Abolition for the People Series
-  - title: CARE Principles for Indigenous Data Governance
-    url: https://static1.squarespace.com/static/5d3799de845604000199cd24/t/6397b363b502ff481fce6baf/1670886246948/CARE%2BPrinciples_One%2BPagers%2BFINAL_Oct_17_2019.pdf
-    author: Research Data Alliance International Indigenous Data Sovereignty Interest Group
-    date: 2019
-    source: The Global Indigenous Data Alliance
 ---
