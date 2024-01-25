@@ -7,9 +7,9 @@ draft: 0
 group: 3
 show_schedule: 1
 due_date: 2024-01-25
-# slides:
-#   - url: https://docs.google.com/presentation/d/117HoTsF1A6YNvjVTsPdqg2clLcyAGYYn0QDRmTbCQFs/edit?usp=sharing
-#     title: STS, Part 2
+slides:
+  - url: https://docs.google.com/presentation/d/12HUqR9znYWMxLCEbHjgN64yOwVjXXe8VXp05kqtwvcs/edit?usp=sharing
+    title: Implications of Race
 readings:
   - title: Cultural Capital
     url: https://www.youtube.com/watch?v=5DBEYiBkgp8
