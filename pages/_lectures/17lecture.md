@@ -13,7 +13,7 @@ due_date: 2024-02-29
 readings:
   - title: "Choose one (or more) of the 'Recommended (Optional)' readings from any of the previous weeks"
     pick_one: 1
-  - title: "Choose one (or more) of the 'Choose one' readings you haven't already done from any of the previous weeks
+  - title: "Choose one (or more) of the 'Choose one' readings you haven't already done from any of the previous weeks"
     pick_one: 1
   - title: "Choose one (or more) resource(s) to explore from our resource page"
     url: /winter2024-vcc/resources
