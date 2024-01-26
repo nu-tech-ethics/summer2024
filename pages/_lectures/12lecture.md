@@ -16,10 +16,17 @@ readings:
     author: Noble, S. U.
     date: 2018
     source: 'Algorithms of Oppression: How Search Engines Reinforce Racism'
-  - title: Counting the Countless
+  - title: "Counting the Countless: Why data science is a profound threat for queer people"
     url: https://reallifemag.com/counting-the-countless/
     author: Keyes, O.
     date: 2019
     source: Real Life Magazine
+    add_pick_one: 1
+  - title: "Cops Used DNA to Predict a Suspect’s Face—and Tried to Run Facial Recognition on It"
+    url: https://www.wired.com/story/parabon-nanolabs-dna-face-models-police-facial-recognition/
+    author: Mehrotra, D.
+    date: 2024
+    source: Wired
+    add_pick_one: 1
 ---
 
