@@ -36,6 +36,7 @@ Ultimately, your conceptual framework should be useful, and productive. You will
 - Who reaps the benefits, and who suffers the costs of its creation and use? 
 
 Examples ([published in BreakPoint Journal](https://tree-in-education.github.io/BreakPointNU/index.html)):
+- [Video talk-through of an example](https://northwestern.zoom.us/rec/share/Sug2h9CQA2wCdTpgYC4UJLOKmNAh2KP5Cs02vOmECvqg9M_V1nTzkBIcfCApty89.TldZ8DiWHLQmPIEx?startTime=1706654250000)
 - E-Scooters in Chicago: A Cautionary Tale e-scooters
   - "This paper seeks to understand the values and attitudes that have shaped the implementation of e-scooter technology in Chicago, and their subsequent impact on society. In the process, we will also examine the interplay of public policy and technological advancement, and the politics embedded in society’s interaction with technology."
 - Blue Emergency Lights: An Investment in White Supremacist Surveillance on College Campuses
