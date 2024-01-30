@@ -7,9 +7,9 @@ draft: 0
 group: 4
 show_schedule: 1
 due_date: 2024-01-30
-# slides:
-#   - url: https://docs.google.com/presentation/d/1w7IOcPIIIp_TsQ8SpexlEkYE77LdADd3IZzFeJK5fnI/edit?usp=sharing
-#     title: Tech Ethics
+slides:
+  - url: https://docs.google.com/presentation/d/1uHUoHgsjA8OmW1TPpyFe_2s9u6y0OBAvEb9xZUv7BYI/edit?usp=sharing
+    title: Tech Ethics & Moral Philosophy
 readings:
   - title: "From Ethics Washing to Ethics Bashing: A View on Tech Ethics from Within Moral Philosophy"
     author: Bietti, E.
@@ -21,6 +21,6 @@ readings:
     author: Williams, R., Smarr, S., Prioleau, D., & Gilbert, J. E.
     date: 2022
     source: IEEE Journals & Magazine
-    notes: Only read the intro.
+    notes: Only read the intro. To access reading, click "PDF" and then "Access through your institution". Once you find Northwestern, you should be redirected to logging in and should be able to access the reading.
 ---
 
