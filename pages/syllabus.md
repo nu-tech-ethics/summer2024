@@ -46,9 +46,6 @@ The course format will consist of:
 1. In-class activities to help students to consider the potential impacts of different kinds of technologies and design decisions.
 1. Reflective writing assignments that will ask you to analyze the social and ethical dimensions of contemporary technology debates.
 
-### Office Hours
-Mondays 4-5pm & Tuesdays 4-5pm on class Zoom with PMs and by appointment with <a href="https://calendly.com/vcchavez/">Prof V</a> or <a href="https://calendly.com/alexispapak/">Alexis</a>
-
 Course grades will be composed of:
 1. Participation (40%)
 1. Midterm (30%)
@@ -89,6 +86,9 @@ You may work individually or in groups of no more than three people.
 
 ### Other Grading Logistics
 We will not be using the final exam time for this class because there is no final exam. Final grades are assigned on a fixed scale: 93-100 is an A, 90-92.99 is an A-, 87-89.99 is a B+, etc. Final course grades will not be curved.  
+
+## Office Hours
+Mondays 4-5pm & Tuesdays 4-5pm on class Zoom with PMs and by appointment with <a href="https://calendly.com/vcchavez/">Prof V</a> or <a href="https://calendly.com/alexispapak/">Alexis</a>
 
 ## Expectations
 We are working very hard to ensure our course is as accessible as possible. If you have any suggestions for how we can make the course more accessible, please reach out to us. If you have any AccessibleANU accommodations, please contact us as soon as possible so that we may work together to support your success in this course. 
