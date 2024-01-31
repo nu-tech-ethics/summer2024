@@ -47,7 +47,7 @@ The course format will consist of:
 1. Reflective writing assignments that will ask you to analyze the social and ethical dimensions of contemporary technology debates.
 
 ### Office Hours
-TBD
+Mondays 4-5pm & Tuesdays 4-5pm on class Zoom with PMs and by appointment with <a href="https://calendly.com/vcchavez/">Prof V</a> or <a href="https://calendly.com/alexispapak/">Alexis</a>
 
 Course grades will be composed of:
 1. Participation (40%)
