@@ -7,9 +7,9 @@ draft: 0
 group: 4
 show_schedule: 1
 due_date: 2024-02-01
-# slides:
-#   - url: https://docs.google.com/presentation/d/1w7IOcPIIIp_TsQ8SpexlEkYE77LdADd3IZzFeJK5fnI/edit?usp=sharing
-#     title: Tech Ethics
+slides:
+  - url: https://docs.google.com/presentation/d/14spWZ_KnY6UiQ6C6n8QUXquBVh-4VymlqhK4nNjlQZ4/edit?usp=sharing
+    title: Professional Tech Ethics & Solutionism
 readings:
   - title: ACM Code of Ethics and Professional Conduct
     url: https://www.acm.org/code-of-ethics
