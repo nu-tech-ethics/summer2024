@@ -16,6 +16,7 @@ readings:
     author: Noble, S. U.
     date: 2018
     source: 'Algorithms of Oppression: How Search Engines Reinforce Racism'
+    notes: 'Log in with Northwestern to access reading.'
   - title: "Counting the Countless: Why data science is a profound threat for queer people"
     url: https://reallifemag.com/counting-the-countless/
     author: Keyes, O.
