@@ -16,4 +16,5 @@ readings:
     author: Kimmerer, R. W.
     date: 2015
     source: "Braiding Sweetgrass: Indigenous Wisdom, Scientific Knowledge, and the Teachings of Plants"
+    notes: 'Log in with Northwestern to access reading.'
 ---
