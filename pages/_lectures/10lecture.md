@@ -15,7 +15,7 @@ readings:
     author: Benjamin, R.
     date: 2019
     source: 'Race After Technology: Abolitionist Tools for the New Jim Code'
-    notes: "You can <a href='https://ebookcentral.proquest.com/lib/northwestern/detail.action?docID=5820427#''>download a PDF version</a> or <a href='https://ebookcentral.proquest.com/lib/northwestern/reader.action?docID=5820427&ppg=9'>read it online</a>."
+    notes: "Log in with Northwestern to access readings: You can <a href='https://ebookcentral.proquest.com/lib/northwestern/detail.action?docID=5820427#''>download a PDF version</a> or <a href='https://ebookcentral.proquest.com/lib/northwestern/reader.action?docID=5820427&ppg=9'>read it online</a>."
   - title: AI, Ain't I a Woman?
     url: https://www.youtube.com/watch?v=QxuyfWoVV98
     author: Buolamwini, J.
