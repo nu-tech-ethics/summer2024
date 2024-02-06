@@ -7,9 +7,9 @@ draft: 0
 group: 5
 show_schedule: 1
 due_date: 2024-02-06
-# slides:
-#   - url: https://docs.google.com/presentation/d/1CDKEhCcmTxJR4T51I2SerH68zrMS79LKKkEX9h6Ie9E/edit?usp=sharing
-#     title: Race After Technology
+slides:
+  - url: https://docs.google.com/presentation/d/1sTUZmDN-N4I-1CmtIhymBJqYhrVXefVesXLLJzlYHDM/edit?usp=sharing
+    title: The New Jim Code
 readings:
   - title: Introduction
     author: Benjamin, R.
