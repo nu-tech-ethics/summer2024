@@ -22,7 +22,8 @@ readings:
     date: 2022
     source: IEEE Journals & Magazine
     notes: Only read the intro. To access reading, click "PDF" and then "Access through your institution". Once you find Northwestern, you should be redirected to logging in and should be able to access the reading.
-    - title: "Overview of Ethics in Tech Practice"
+  - title: "Overview of Ethics in Tech Practice"
+    url: https://www.scu.edu/ethics-in-technology-practice/overview-of-ethics-in-tech-practice/
     author: Vallor, S., Green, B., & Raicu, I.
     date: 2018
     source: Markkula Center for Applied Ethics
