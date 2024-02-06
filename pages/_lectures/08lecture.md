@@ -22,5 +22,10 @@ readings:
     date: 2022
     source: IEEE Journals & Magazine
     notes: Only read the intro. To access reading, click "PDF" and then "Access through your institution". Once you find Northwestern, you should be redirected to logging in and should be able to access the reading.
+    - title: "Overview of Ethics in Tech Practice"
+    author: Vallor, S., Green, B., & Raicu, I.
+    date: 2018
+    source: Markkula Center for Applied Ethics
+    optional: 1
 ---
 
