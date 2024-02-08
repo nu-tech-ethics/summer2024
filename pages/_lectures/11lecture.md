@@ -7,9 +7,9 @@ draft: 0
 group: 5
 show_schedule: 1
 due_date: 2024-02-08
-# slides:
-#   - url: https://docs.google.com/presentation/d/1LFT0qNCzUWjreNa7Pzw0ixGj_H327c71jYICtCh7UGg/edit?usp=sharing
-#     title: Facial Recognition
+slides:
+  - url: https://docs.google.com/presentation/d/1F1DqZXWqxai5_h-su6Ngc7oem6bcgHROXvYJ3gXJo14/edit?usp=sharing
+    title: '(Un)Intentionality'
 readings:
   - title: 'Unintended by Design: On the Political Uses of “Unintended Consequences”'
     url: https://estsjournal.org/index.php/ests/article/view/497/273
