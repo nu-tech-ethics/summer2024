@@ -7,9 +7,9 @@ draft: 0
 group: 5
 show_schedule: 1
 due_date: 2024-02-13
-# slides:
-#   - url: https://docs.google.com/presentation/d/1ZEFaZIF3Ddl0Jb14bYdKykAY0KlfAXsrIgsN3oNummg/edit?usp=sharing
-#     title: Algorithms of Oppression
+slides:
+  - url: https://docs.google.com/presentation/d/1NQyOuJI6dS0ONY3kkB3DUI56pe60YtDm3_1aTas64eA/edit?usp=sharing
+    title: The Power of Algorithms
 readings:
   - title: Introduction
     url: https://www-jstor-org.turing.library.northwestern.edu/stable/j.ctt1pwt9w5.4
