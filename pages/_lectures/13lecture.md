@@ -7,9 +7,9 @@ draft: 0
 group: 6
 show_schedule: 1
 due_date: 2024-02-15
-# slides:
-#   - url: https://docs.google.com/presentation/d/180KtjRc_nfTwl3hNAD0MXcsLAPWR2yp4r5GvYNJ6i1Q/edit?usp=sharing
-#     title: Data Capitalism
+slides:
+  - url: https://docs.google.com/presentation/d/1nyMvX5374Rbdlhho0676bICyiPW7j7nZuPjrYlovafw/edit?usp=sharing
+    title: 'Racial & Data Capitalism'
 readings:
   - title: (Racial) Capitalism (Episode 4)
     url: https://www.hulu.com/watch/52af08f3-6b92-4411-836d-4b433dd1acc0?play=false&utm_source=shared_link
