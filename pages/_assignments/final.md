@@ -25,17 +25,21 @@ You may work individually or in groups of no more than three (3) people.
 ## II. Format
 Final submission of the project will include:
 
+1. A short (no more than 5 min) presentation due **before** the last day of class
 1. A presentable prototype or writing piece (whether it’s a chapter, podcast, interactive demo, video, etc.)
-2. A proposal document (3-page max, single-spaced), considering the project guidelines below.
+1. A proposal document (3-page max, single-spaced), considering the project guidelines below.
 
 About 2/3 of your effort should dedicated to creating the prototype, and the other 1/3 should be dedicated to the project proposal (which articulates your theory of change). 
 
-## III. Prototype Guidelines
+## III. Presentation Guidelines
+We will invite you to our course [Flip](https://info.flip.com/en-us.html) Group and you will record a short (no more than 5 min) presentation about your project. Think of your presentation as a project pitch to get feedback from your peers and instructors. You should upload your recording **before** the last day of class, as we'll be watching and commenting on presentations during class time. If you worked in a group, y’all can record together or individually. **Briefly** present each of the five components (described below) of your proposal and include a picture, screenshot, or description of your prototype.
+
+## IV. Prototype Guidelines
 Your prototype should give us a sense of what you hope to create. This could be a sample story, module, podcast, presentation, etc. Or, if you're planning to build an app, website, or game, it could be a prototype of your vision. 
 
 We want you to spend some time creating something concrete, to help us understand what you are envisioning, and how it might function to achive a particular ethical / social goal.
 
-## IV. Proposal Guidelines
+## V. Proposal Guidelines
 Your 3-page project proposal must address the following:
 
 ### 1. Background
@@ -56,12 +60,11 @@ If you were to implement this project, what are your next steps in terms of rese
 * How will you reach out to the people who really understand the context you’re studying and who are most impacted by the technology to make sure you understand their needs?
 * How will you test your prototype to ensure you’re delivering the message / idea / topic effectively (think back to what you defined as success in your objectives)?
 
-## V. What to Turn In
-1. A short (no more than 5 min) presentation on the last class (Wednesday 5/31)
-	- Think of your presentation as project pitch to get feedback from your peers and instructors
-2. Your paper (due 6/7 at 11:59pm)
+## VI. What to Turn In
+1. A short (no more than 5 min) presentation due **before** the last day of class
+2. Your paper (due {{ page.due_date }} at 11:59pm)
 
-## VI. Rubric
+## VII. Rubric
 
 |                     |                                                                                                           Full  (Grade: A-B)                                                                                                           |                                                                                                                           Partial  (Grade: B-C)                                                                                                                           |                                                                                                            Needs work  (Grade: C or less)                                                                                                            |
 |---------------------|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
