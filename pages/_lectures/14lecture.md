@@ -7,9 +7,9 @@ draft: 0
 group: 7
 show_schedule: 1
 due_date: 2024-02-20
-# slides:
-#   - url: https://docs.google.com/presentation/d/13EG0WzjdtHWxoZrNEb26TY8drS6PYlibnRyy4Nz_-Ek/edit?usp=sharing
-#     title: Land Relations
+slides:
+  - url: https://docs.google.com/presentation/d/1ymx6t_tGWtx4NRv1Et-TIHIryIZdLjHdd0QrVaazxv0/edit?usp=sharing
+    title: Reimagining Land Relations
 readings:
   - title: The Sacred and the Superfund
     url: https://search-ebscohost-com.turing.library.northwestern.edu/login.aspx?direct=true&db=nlebk&AN=683745&site=ehost-live&ebv=EB&ppid=pp_310
