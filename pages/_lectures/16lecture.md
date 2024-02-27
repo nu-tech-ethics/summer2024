@@ -7,9 +7,9 @@ draft: 0
 group: 7
 show_schedule: 1
 due_date: 2024-02-27
-# slides:
-#   - url: https://docs.google.com/presentation/d/1NxvOkVUfY0RcVD8fILoQaq3aBu6s6uyQk3A05FoQ4wY/edit?usp=sharing
-#     title: Reimagining CS Education
+slides:
+  - url: https://docs.google.com/presentation/d/1-VLs80rtKDmluSTP3LPIg6CUqjsYKRCwDRAB4q2Eh-8/edit?usp=sharing
+    title: Reimagining CS Education
 readings:
   - title: "We Tell These Stories to Survive: Towards Abolition in Computer Science Education"
     url: 
