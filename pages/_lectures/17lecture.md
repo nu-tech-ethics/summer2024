@@ -7,9 +7,9 @@ draft: 0
 group: 8
 show_schedule: 1
 due_date: 2024-02-29
-# slides:
-#   - url: https://docs.google.com/presentation/d/1zgiADx9-GTxS84-LWJYbphzaVXO_eWwllCa_s98i5ls/edit?usp=sharing
-#     title: Your Choice
+slides:
+  - url: https://docs.google.com/presentation/d/1l-kNd9cxtUxtTB4Ej-lHXFKPtX7XkNYzNPItjZT6wSo/edit?usp=sharing
+    title: "Tech for/in War"
 readings:
   - title: "‘The Gospel’: how Israel uses AI to select bombing targets in Gaza"
     url: https://www.theguardian.com/world/2023/dec/01/the-gospel-how-israel-uses-ai-to-select-bombing-targets
