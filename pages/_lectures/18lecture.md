@@ -7,9 +7,9 @@ draft: 0
 group: 9
 show_schedule: 1
 due_date: 2024-03-05
-# slides:
-#   - url: https://docs.google.com/presentation/d/1zgiADx9-GTxS84-LWJYbphzaVXO_eWwllCa_s98i5ls/edit?usp=sharing
-#     title: Your Choice
+slides:
+  - url: https://docs.google.com/presentation/d/1M4lrQYvcV9H4nVydpSCRcRuJL0tU28U4lLScGfa4Jx8/edit?usp=sharing
+    title: Your Choice
 readings:
   - title: Record and upload your final presentation to Flip
     url: https://flip.com/85c80001
