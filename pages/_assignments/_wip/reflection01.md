@@ -2,9 +2,10 @@
 layout: assignment-two-column
 title: "Extractivism Reflection"
 abbreviation: Reflection 1
-due_date: 2024-01-11
+due_date: 2024-06-21
 ordering: 1
 draft: 0
+type: homework
 ---
 
 ## Purpose

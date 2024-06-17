@@ -2,7 +2,7 @@
 {% assign pick_one = 0 %}
 {% assign add_pick_one = 0 %}
 
-<br><br>Please complete the following readings BEFORE class:
+<br><br>Please complete the following readings before the end of the week:
 
 <ul class="readings">
 {% for item in page.readings %}
@@ -20,7 +20,7 @@
 
 
 {% if pick_one == 1 %}
-    <div class="optional-readings">Pick one (or more!) of the following to complete before class</div>
+    <div class="optional-readings">Pick one (or more!) of the following to complete before the end of the week</div>
     <ul class="readings">
     {% for item in page.readings %}
         {% if item.pick_one == 1 %}
@@ -31,7 +31,7 @@
 {% endif %}
 
 {% if add_pick_one == 1 %}
-    <div class="optional-readings">Additionally, choose one (or more!) of the readings below to also complete BEFORE class:</div>
+    <div class="optional-readings">Additionally, choose one (or more!) of the readings below to also complete before the end of the week:</div>
     <ul class="readings">
     {% for item in page.readings %}
         {% if item.add_pick_one == 1 %}

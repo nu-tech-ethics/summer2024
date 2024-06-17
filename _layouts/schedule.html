@@ -23,10 +23,8 @@ layout: default
             </tbody></table>
         {% endif %}
         <h2>
-            {% if lecture.group == 101 %}
-                I. Course Introduction
-            {% elsif lecture.group == 1 %}
-                II. Extractivism
+            {% if lecture.group == 1 %}
+                Course Introduction & Extractivism
             {% elsif lecture.group == 2 %}
                 III. Science and Technology Studies (STS)
             {% elsif lecture.group == 3 %}
@@ -51,8 +49,7 @@ layout: default
                     <th>Week</th>
                     <th>Date</th>
                     <th>Topic & Readings</th>
-                    <th>Slides</th>
-                    <th>Due</th>
+                    <th>Assignments Due</th>
                 </tr>
             </thead>
             <tbody>
@@ -72,41 +69,24 @@ layout: default
                 {{ date | date: "%m/%d/%y" }}
             </span>
         </td>
-        {% if lecture %}
-            <td>
-                {% assign prefix = "Day " | append: lecture.num %}
-                {% assign className = "lec" %}
-                {% if lecture.type == 'lab' %}
-                    {% assign prefix = lecture.abbreviation %}
-                    {% assign className = "lab" %}
-                {% endif %}
 
-                <h4 class="anchor" id="lecture_{{lecture.num}}">
-                    {% if lecture.type == 'lab' %}
-                        {{prefix}}:
-                    {% endif %}
-                    {{ lecture.title}}</h4>
-
-                {% if lecture.readings and lecture.draft == 0 %}
-                    {% assign page = lecture %}
-                    {% include page_readings.html %} 
-                {% endif %}
-            </td>
-        {% else %}
-            <td></td>
-        {% endif %}
         <td>
-            {% if lecture and lecture.draft == 0 and lecture.slides %}
-                {% assign num = num | plus: 1 %}
-                {% for slide in lecture.slides %}
-                     <h4 class="anchor" id="lecture_{{lecture.num}}">
-                <a class="{{ className }}" href={{slide.url}}>
-                    {{ prefix }} <i class="fa fa-link"></i>
-                </a>
-            </h4>
-                {% endfor %}
-            {% endif %}
-        </td>
+         {% assign lectures = site.lectures | where: 'due_date', date %}
+            {% for lect in lectures %}
+                {% assign lect_date = lect.due_date | date: '%s' %}
+                {% if dueDate == lect_date %}
+                    <h4 class="anchor" id="lecture_{{lect.num}}">
+                        {{ lect.title}}
+                    </h4>
+
+                    {% if lect.readings and lect.draft == 0 %}
+                        {% assign page = lect %}
+                        {% include page_readings.html %} 
+                    {% endif %}
+                {% endif %}
+                <br>
+            {% endfor %}
+            </td>
         <td>
             {% assign assignments = site.assignments | where: 'due_date', date %}
             {% for assignment in assignments %}
@@ -130,9 +110,6 @@ layout: default
                         {% assign className = 'ec' %}
                     {% endif %}
                     <a class="{{className}}" href="{{site.baseurl}}{{assignment.url}}">{{assignment.abbreviation}} <i class="fa fa-link"></i></a>
-                    {% if assignment.type == "homework" %}
-                        {{assignment.title}}  
-                    {% endif %}
                 {% endif %}
                 {% unless forloop.last %}, {% endunless %}
             {% endfor %}

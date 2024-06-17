@@ -3,13 +3,11 @@ layout: syllabus
 title: Syllabus
 type: page
 permalink: /syllabus/
-course: "CS 396/496 | LS 351: Computing, Ethics, and Society"
+course: "CS 396 Computing, Ethics, and Society"
 professor: Victoria C. Chávez (Prof V/they/she)
-pms: Rina (she/her) and Danny (he/him)
-ta: Alexis (they/them)
-class_time: Tuesdays and Thursdays, 9:30am - 10:50am
-class_location: Zoom (see Canvas for link)
-office_hours: Mondays 4-5pm & Tuesdays 4-5pm on class Zoom with PMs and by appointment with <a href="https://calendly.com/vcchavez/">Prof V</a> or <a href="https://calendly.com/alexispapak/">Alexis</a>
+pms: Danny (he/him)
+office_hours: 'Wednesdays 4-5pm <a href="https://northwestern.zoom.us/j/93957923216">on Zoom</a> (note: you must be logged in using Northwestern’s SSO) or <a href="https://calendly.com/vcchavez/">by appointment</a>'
+class_time: None (this course is asynchronous)
 include_covid_statement: 1
 ---
 
@@ -28,7 +26,11 @@ To accomplish this, we will engage in critical reading across a range of topics 
 The course is open to all students. For CS majors, minors, and graduate students, the course aims to help students to consider and grapple with ethical dimensions of their work, in order to inform a more critical technical practice. For students coming into the class from other disciplinary vantage points, the course aims to provide a solid foundation for thinking about the possibilities, risks, and impacts of computer-mediated infrastructures on society.
 
 ## Acknowledgements
-This course was originally developed in collaboration with Dr. Sepehr Vakil, Dr. Sarah Van Wart, and Natalie Araujo Melo.
+Acknowledging the role we and our tech play in the use and abuse of land and labor is a crucial step in understanding the impacts of technology. During Winter 2024 we worked collectively as a class to draft a 'tecth, land, and labor acknowledgement.' While we recognize an acknowledgement is never really 'finalized', below is the version we ended up with at the end of the quarter.
+
+<iframe src="https://docs.google.com/document/d/e/2PACX-1vS8KpJkiefyOFy6BSZRA0oDJvT31sIM25s184SLJxAMLo6yq-nfu3ljCydJAuTObJ47vB01UO2xmGQk/pub?embedded=true" height="350px"></iframe>
+
+Of note, this course was originally developed in collaboration with Dr. Sepehr Vakil, Dr. Sarah Van Wart, and Natalie Araujo Melo.
 
 ## Required Texts
 All assigned readings will be available via Canvas as PDFs, no purchase required. If you would like to dive more in-depth into the topics we learn about, below are the books we will be reading chapters from (in chronological order):
@@ -42,8 +44,8 @@ All assigned readings will be available via Canvas as PDFs, no purchase required
 
 ## Course Format & Grading
 The course format will consist of:
-1. Readings and in-class discussions.
-1. In-class activities to help students to consider the potential impacts of different kinds of technologies and design decisions.
+1. Readings and online discussions.
+1. Activities to help students to consider the potential impacts of different kinds of technologies and design decisions.
 1. Reflective writing assignments that will ask you to analyze the social and ethical dimensions of contemporary technology debates.
 
 Course grades will be composed of:
@@ -52,19 +54,13 @@ Course grades will be composed of:
 1. Final project or paper (30%)
 
 ### 1. Participation (40%)
-Your participation grade will be based on attendance, and on evidence that you are engaging with the readings (as shown through your in-class participation as well as through your Identity Journal entries).
+Your participation grade will be based on evidence that you are engaging with the readings as shown through your Identity Journal entries and discussion posts and replies..
 
-#### Class Discussions
-We will use classroom discussion as a form of collaborative sense-making to understand, critique, and interrogate the required [course readings](../). Your timely and engaged attendance at every class is thus very important – both for you and for your classmates. Every student will need to participate in a thoughtful and productive manner in order for these discussions to be effective. Building on and reacting to other participants’ comments is encouraged, and should be done in a respectful tone even if you disagree. In order to participate fully, please do not let your laptop, phone, or other devices distract you or other participants. 
+#### Online Discussions
+We will use online discussions as a form of collaborative sense-making to understand, critique, and interrogate the required [course readings](../). Your timely and engaged responses every week are thus very important – both for you and for your classmates. Every student will need to participate in a thoughtful and productive manner in order for these discussions to be effective. Building on and reacting to other participants’ comments is encouraged, and should be done in a respectful tone even if you disagree. For all discussions, your posts and responses should be thoughtful and thorough. We encourage you to engage with as many peers as you’re able to, and challenge you to do so deeply and meaningfully. The goal is to have a conversation, not to meet a requirement. 
 
 #### Identity Journal
-
 Each student will also create an "Identity Journal" that will be updated throughout the quarter, both during and outside of class. The Identity Journal will be a personalized space for you to keep track of how core themes of the class relate directly to your own lived experiences, identities, and perspectives. It will also serve as an artifact of your learning that will be useful to you beyond the class. **You may skip one identity journal post without a grade penalty.**
-
-{:.blockquote-no-margin}
-> **Attendance and Absence Policy**
-> 
-> You are allowed two unexcused absences during the quarter, no questions asked. You should reserve these absences for the occasional emergency or illness. After two absences, your participation grade will be impacted.
 
 ### 3. Midterm (30%)
 Using at least 3 of the academic sources we have read so far, develop a conceptual framework that articulates your unique perspective on technology. Your conceptual framework should integrate theoretical arguments from the readings covered thus far and your own personal identity and experience in the world. Ultimately, your conceptual framework should be useful, and productive. You will draw upon it to conduct a sociopolitical analysis of your technology. Your analysis will be designed to shed light on questions such as: What values do this technology reflect, embrace, reject, or encourage? Who is affected by its design? How was its design affected by society? Who reaps the benefits, and who suffers the costs of its creation and use? 
@@ -88,12 +84,11 @@ You may work individually or in groups of no more than three people.
 We will not be using the final exam time for this class because there is no final exam. Final grades are assigned on a fixed scale: 93-100 is an A, 90-92.99 is an A-, 87-89.99 is a B+, etc. Final course grades will not be curved.  
 
 ## Office Hours
-Mondays 4-5pm & Tuesdays 4-5pm on class Zoom with PMs and by appointment with <a href="https://calendly.com/vcchavez/">Prof V</a> or <a href="https://calendly.com/alexispapak/">Alexis</a>
+Wednesdays 4-5pm <a href="https://northwestern.zoom.us/j/93957923216">on Zoom</a> (note: you must be logged in using Northwestern’s SSO) or <a href="https://calendly.com/vcchavez/">by appointment</a>
 
 ## Expectations
 We are working very hard to ensure our course is as accessible as possible. If you have any suggestions for how we can make the course more accessible, please reach out to us. If you have any AccessibleANU accommodations, please contact us as soon as possible so that we may work together to support your success in this course. 
 
-* You will come to class prepared and ready to engage in an intellectual discussion about the readings.
 * You will complete all assignments on time and with interest, engagement, and intellectual curiosity.
 * You will bring your unique expertise, perspectives, and experiences to class and share them with others, so that we might all gain from your perspectives.
 * You will respect and seek to understand the unique perspectives and experiences of others.

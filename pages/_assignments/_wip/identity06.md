@@ -3,18 +3,17 @@ layout: assignment
 title: "Identity Journal 6"
 abbreviation: Journal 6
 type: identity
-due_date: 2024-01-23
+due_date: 2024-01-25
 ordering: 1
-draft: 1
+draft: 0
 ---
 
-Share your thoughts on the following:
+Think about your identities, your access to power and privilege, and your relationship with technology
+- How do the technologies you use reflect, embrace, reject, or encourage these sources of power and privilege (i.e., your identities)?
+- How does your proximity to the center of power and privilege impact how you interact with or think about these technologies?
 
-Part 1, at the beginning of class:
+Map out your cultural wealth 
+- Feel free to be as artistic as you’d like– use your computer, pen and paper, colors, whatever you have available!
+- How can you use your community cultural wealth to disrupt systems of harm?
 
-There has been a lot going on— in the world and in class. How are you making sense of these moments? How are you feeling?
-
-
-Part 2, at the end of class:
-
-There has been a lot going on— in the world and in class. How are you making sense of these moments? How are you feeling? **How do you find and sustain hope? How do (or can) you embrace your community cultural wealth to disrupt instances and systems of oppression?**
+Remember: **Submit your *entry text* on Canvas.**

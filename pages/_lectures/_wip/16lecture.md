@@ -1,20 +1,20 @@
 ---
-layout: module
-num: 16
-title: "Solutionism"
+layout: lecture
+num: 14
+title: "Reimagining CS Education"
 type: lecture
-draft: 1
-group: 8
+draft: 0
+group: 7
 show_schedule: 1
 due_date: 2024-02-27
 slides:
-  - url: https://docs.google.com/presentation/d/1LN3qeoZnZegGh4iVdpUM-HiTcV2FyF-qjGqbb_Ox-Fo/edit?usp=sharing
-    title: Solutionism
+  - url: https://docs.google.com/presentation/d/1-VLs80rtKDmluSTP3LPIg6CUqjsYKRCwDRAB4q2Eh-8/edit?usp=sharing
+    title: Reimagining CS Education
 readings:
-  - title: "Pause Giant AI Experiments: An Open Letter"
-    url: https://futureoflife.org/open-letter/pause-giant-ai-experiments/
-    author: Future of Life Institute
-    date: 2023
-    source: Future of Life Institute
-    notes: "You do not need to sign the letter, just read and think about it in conversation with solutionism"
+  - title: "We Tell These Stories to Survive: Towards Abolition in Computer Science Education"
+    url: 
+    author: Jones, S. T. & melo, n. a.
+    date: 2021
+    source: Canadian Journal of Science, Mathematics and Technology Education  
+    notes: "Text available in <a href='https://link.springer.com/article/10.1007/s42330-021-00158-2'>HTML format</a> or <a href='https://link.springer.com/content/pdf/10.1007/s42330-021-00158-2.pdf'>as a PDF</a>."
 ---    

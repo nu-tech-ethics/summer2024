@@ -2,9 +2,10 @@
 layout: assignment-two-column
 title: "Final Project"
 abbreviation: Final
-due_date: 2024-03-12
+due_date: 2024-08-23
 ordering: 1
 draft: 0
+type: homework
 ---
 
 ## I. Introduction
