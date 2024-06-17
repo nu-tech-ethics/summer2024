@@ -33,7 +33,7 @@ Final submission of the project will include:
 About 2/3 of your effort should dedicated to creating the prototype, and the other 1/3 should be dedicated to the project proposal (which articulates your theory of change). 
 
 ## III. Presentation Guidelines
-We will invite you to our course [Flip](https://info.flip.com/en-us.html) Group and you will record a short (no more than 5 min) presentation about your project. Think of your presentation as a project pitch to get feedback from your peers and instructors. You should upload your recording **before** the last day of class, as we'll be watching and commenting on presentations during class time. If you worked in a group, y’all can record together or individually. **Briefly** present each of the five components (described below) of your proposal and include a picture, screenshot, or description of your prototype.
+We will invite you to our course [Flip](https://info.flip.com/en-us.html) Group and you will record a short (no more than 5 min) presentation about your project. Think of your presentation as a project pitch to get feedback from your peers and instructors. If you worked in a group, y’all can record together or individually. **Briefly** present each of the five components (described below) of your proposal and include a picture, screenshot, or description of your prototype.
 
 ## IV. Prototype Guidelines
 Your prototype should give us a sense of what you hope to create. This could be a sample story, module, podcast, presentation, etc. Or, if you're planning to build an app, website, or game, it could be a prototype of your vision. 
