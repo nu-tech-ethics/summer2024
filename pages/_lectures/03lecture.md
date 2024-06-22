@@ -1,15 +1,15 @@
 ---
 layout: lecture
 num: 3
-title: "Human Extractions"
+title: "III. Human Extractions"
 type: lecture
 draft: 0
 group: 1
 show_schedule: 1
-due_date: 2024-01-11
-slides:
-  - url: https://docs.google.com/presentation/d/1slTt-TLEpe1F_rq_M7jhHIboYQQm-S-fUumYtFdg7L4/edit?usp=sharing
-    title: Human Relations
+# slides:
+#   - url: https://docs.google.com/presentation/d/1slTt-TLEpe1F_rq_M7jhHIboYQQm-S-fUumYtFdg7L4/edit?usp=sharing
+#     title: Human Relations
+due_date: 2024-06-24
 readings:
   - title: The Story of Electronics
     url: https://www.storyofstuff.org/movies/story-of-electronics/
