@@ -22,13 +22,13 @@ readings:
     author: Morozov, E.
     date: 2014
     source: DLD Conference
-    add_pick_one: 1
+    add_pick_x: 1
   - title: 'We are abandoning all the checks and balances'
     url: https://www.theguardian.com/technology/2013/mar/09/evgeny-morozov-technology-solutionism-interview
     author: Tucker, I.
     date: 2013
     source: The Guardian
-    add_pick_one: 1
+    add_pick_x: 1
     notes: "This article uses <a href='https://www.autistichoya.com/p/ableist-words-and-terms-to-avoid.html'>ableist and sanist language</a> which we should try to avoid."
 ---
 

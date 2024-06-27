@@ -22,12 +22,12 @@ readings:
     author: Keyes, O.
     date: 2019
     source: Real Life Magazine
-    add_pick_one: 1
+    add_pick_x: 1
   - title: "Cops Used DNA to Predict a Suspect’s Face—and Tried to Run Facial Recognition on It"
     url: https://www.wired.com/story/parabon-nanolabs-dna-face-models-police-facial-recognition/
     author: Mehrotra, D.
     date: 2024
     source: Wired
-    add_pick_one: 1
+    add_pick_x: 1
 ---
 

@@ -15,13 +15,13 @@ readings:
     url: https://flip.com/85c80001
     notes: For information about what's expected for your presentation, please refer to the <a href='assignments/final#ethics_iii-presentation-guidelines'>final project page</a>.
   - title: "A 'Recommended (Optional)' reading from any of the previous weeks"
-    add_pick_one: 1
+    add_pick_x: 1
   - title: "A 'Choose one' reading you haven't already done from any of the previous weeks"
-    add_pick_one: 1
+    add_pick_x: 1
   - title: "A resource from our resource page"
     url: /winter2024-vcc/resources
-    add_pick_one: 1
+    add_pick_x: 1
   - title: "A reading from <a href='http://nu-tech-ethics.github.io/index/'>other iterations of the course </a> that you haven't already done"
-    add_pick_one: 1
+    add_pick_x: 1
   
 ---    
