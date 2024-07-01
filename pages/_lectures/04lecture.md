@@ -1,7 +1,7 @@
 ---
 layout: lecture
 num: 3
-title: "IV. Do Artifacts Have Politics?"
+title: "Do Artifacts Have Politics?"
 type: lecture
 draft: 0
 group: 2

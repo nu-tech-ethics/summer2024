@@ -1,7 +1,7 @@
 ---
 layout: lecture
 num: 1
-title: II. Land Extractions
+title: Land Extractions
 type: lecture
 draft: 0
 group: 1

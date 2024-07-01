@@ -1,7 +1,7 @@
 ---
 layout: lecture
 num: 3
-title: "III. Human Extractions"
+title: "Human Extractions"
 type: lecture
 draft: 0
 group: 1

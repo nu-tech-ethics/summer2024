@@ -189,19 +189,19 @@ table.rubric {
             }
             color: #222;
         }
+
         td:nth-child(1) {
             min-width: 80px;
-            max-width: 80px;
-            width: 80px;
-        }
-        td:nth-child(2) {
-            min-width: 100px;
             max-width: 100px;
             width: 100px;
         }
+        td:nth-child(2) {
+            min-width: 100px;
+            max-width: 400px;
+        }
         td:nth-child(3), th:nth-child(3) {
         //     min-width: 220px;
-        //     max-width: 220px;
+            max-width: 100px;
         //     width: 220px;
         //     margin-right: 10px;
             ul {

@@ -7,136 +7,116 @@ layout: default
 {% assign labs = site.assignments | where: 'type', 'lab' %}
 {% assign main_listing = site.lectures | concat: labs %}
 {% assign dateStart = site.term_start_date | date: '%s' %}
+{% assign last_week = 0 %}
 
 <section class="readings">
 {{content}}
-{% assign last_group = 0 %}
-{% assign last_week = 0 %}
-{% for date in dates %}
-    {% assign lecture = main_listing | where: 'due_date', date | last %}
-    {% assign dueDate = date | date: '%s' %}
-    {% assign diffSeconds = dueDate | minus: dateStart %}
-    {% assign diffDays = diffSeconds | divided_by: 3600 | divided_by: 24 | plus: 1 %}
-    {% assign week = diffDays | divided_by: 7 | plus: 1 %}
-    {% if lecture.group != last_group and lecture and lecture.group %}
-        {% if last_group != 0 %}
-            </tbody></table>
-        {% endif %}
-        <h2>
-            {% if lecture.group == 1 %}
-                Course Introduction & Extractivism
-            {% elsif lecture.group == 2 %}
-                Extractivism & Science and Technology Studies (STS) Intro
-            {% elsif lecture.group == 3 %}
-                IV. The Construct of Race
-            {% elsif lecture.group == 4 %}
-                V. Moral Philosophy
-            {% elsif lecture.group == 5 %}
-                VI. Race Critical Code Studies 
-            {% elsif lecture.group == 6 %}
-                VII. Capitalism
-            {% elsif lecture.group == 7 %}
-                VIII. Critical Hope
-            {% elsif lecture.group == 8 %}
-                IX. War
-            {% else %}
-                X. Your Choice
-            {% endif %}
-        </h2>
-        <table>
-            <thead>
+
+{% for i in (1..10) %}
+    {% assign is_blank = true %}
+    <h2>Week {{i}}</h2>
+    <table>
+        <thead>
+            <tr>
+                <th>Date</th>
+                <th>Topic & Readings</th>
+                <th>Assignments Due</th>
+            </tr>
+        </thead>
+        <tbody> 
+            {% for date in dates %}
+                {% assign dueDate = date | date: '%s' %}
+                {% assign diffSeconds = dueDate | minus: dateStart %}
+                {% assign diffDays = diffSeconds | divided_by: 3600 | divided_by: 24 | plus: 1 %}
+                {% assign week = diffDays | divided_by: 7 | plus: 1 %}
+                
+                {% if week < i %}
+                    {% continue %}
+                {% endif %}
+
+                {% if week > i %} 
+                    {% break %}
+                {% endif %}
+                
+                {% assign is_blank = false %}
                 <tr>
-                    <th>Week</th>
-                    <th>Date</th>
-                    <th>Topic & Readings</th>
-                    <th>Assignments Due</th>
+                    <td>
+                        {{ date | date: "%a <br> %m/%d" }}
+                        <span class="due-date">
+                            {{ date | date: "%m/%d/%y" }}
+                        </span>
+                    </td>
+
+                    <td>
+                     {% assign lectures = site.lectures | where: 'due_date', date %}
+                        {% for lect in lectures %}
+                            {% assign lect_date = lect.due_date | date: '%s' %}
+                            {% if dueDate == lect_date %}
+                                <h3 class="anchor" id="lecture_{{lect.num}}">
+                                    {{lect.title}}
+                                </h3>
+
+                                {% if lect.readings and lect.draft == 0 %}
+                                    {% assign page = lect %}
+                                    {% include page_readings.html %} 
+                                {% endif %}
+                            {% endif %}
+                            <br>
+                        {% endfor %}
+                    </td>
+                    <td>
+                        {% assign assignments = site.assignments | where: 'due_date', date %}
+                        {% for assignment in assignments %}
+                            {% assign title = assignment.abbreviation %}
+                            {% if assignment.type == "homework" %}
+                                {% assign title = assignment.abbreviation | append: ": " | append: assignment.title %}
+                            {% endif %}
+                            {% if assignment.draft == 1 %}
+                                {{ title }}
+                            {% elsif assignment.external_url %}
+                                <a href="{{assignment.external_url}}" target="_blank">{{title}}</a>  
+                            {% else %} 
+                                {% assign className = 'pj' %}
+                                {% if assignment.type == 'homework' %}
+                                    {% assign className = 'hw' %}
+                                {% endif %}
+                                {% if assignment.type == 'response' %}
+                                    {% assign className = 'lab' %}
+                                {% endif %}
+                                {% if assignment.type == 'identity' %}
+                                    {% assign className = 'ec' %}
+                                {% endif %}
+                                <a class="{{className}}" href="{{site.baseurl}}{{assignment.url}}">{{assignment.abbreviation}} <i class="fa fa-link"></i></a>
+                            {% endif %}
+                        {% endfor %}
+                    </td>
                 </tr>
-            </thead>
-            <tbody>
-        {% assign last_group = lecture.group %}
-    {% endif %}
-    <tr>
-        {% if week != last_week %}
-            <td><h3>Week {{week}}</h3></td>
-            {% assign last_week = week %}
-        {% else %}
-            <td></td>
-        {% endif %}
-        <td>
-            {{ date | date: "%a, %m/%d" }}
-
-            <span class="due-date">
-                {{ date | date: "%m/%d/%y" }}
-            </span>
-        </td>
-
-        <td>
-         {% assign lectures = site.lectures | where: 'due_date', date %}
-            {% for lect in lectures %}
-                {% assign lect_date = lect.due_date | date: '%s' %}
-                {% if dueDate == lect_date %}
-                    <h4 class="anchor" id="lecture_{{lect.num}}">
-                        {{ lect.title}}
-                    </h4>
-
-                    {% if lect.readings and lect.draft == 0 %}
-                        {% assign page = lect %}
-                        {% include page_readings.html %} 
-                    {% endif %}
-                {% endif %}
-                <br>
-            {% endfor %}
-            </td>
-        <td>
-            {% assign assignments = site.assignments | where: 'due_date', date %}
-            {% for assignment in assignments %}
-                {% assign title = assignment.abbreviation %}
-                {% if assignment.type == "homework" %}
-                    {% assign title = assignment.abbreviation | append: ": " | append: assignment.title %}
-                {% endif %}
-                {% if assignment.draft == 1 %}
-                    {{ title }}
-                {% elsif assignment.external_url %}
-                    <a href="{{assignment.external_url}}" target="_blank">{{title}}</a>  
-                {% else %} 
-                    {% assign className = 'pj' %}
-                    {% if assignment.type == 'homework' %}
-                        {% assign className = 'hw' %}
-                    {% endif %}
-                    {% if assignment.type == 'response' %}
-                        {% assign className = 'lab' %}
-                    {% endif %}
-                    {% if assignment.type == 'identity' %}
-                        {% assign className = 'ec' %}
-                    {% endif %}
-                    <a class="{{className}}" href="{{site.baseurl}}{{assignment.url}}">{{assignment.abbreviation}} <i class="fa fa-link"></i></a>
-                {% endif %}
-                {% unless forloop.last %}, {% endunless %}
-            {% endfor %}
-        </td>
-    </tr>
+            {% endfor %} 
+        </tbody>
+    </table>
+    {% if is_blank %}
+        <p>TBD</p>
+    {% endif%}
 {% endfor %}
-    </tbody>
-</table>
 </section>
 
 {% if site.deadline_reminder %}
-<script>
-    /* 
-        Script for calculating # of days until assignment due.
-        Note: Can't use Jekyll b/c it doesn't compile every time.
-    */
-    const trs = document.querySelectorAll('tr');
-    for (tr of trs) {
-        const dateElement = tr.querySelector('.due-date');
-        if (dateElement) {
-            const dateString = dateElement.innerHTML;
-            const dueDate = new Date(dateString);
-            const numDays = (dueDate - new Date()) / (1000 * 3600 * 24);
-            if (numDays < -1) {
-                tr.classList.add('passed');
+    <script>
+        /* 
+            Script for calculating # of days until assignment due.
+            Note: Can't use Jekyll b/c it doesn't compile every time.
+        */
+        const trs = document.querySelectorAll('tr');
+        for (tr of trs) {
+            const dateElement = tr.querySelector('.due-date');
+            if (dateElement) {
+                const dateString = dateElement.innerHTML;
+                const dueDate = new Date(dateString);
+                const numDays = (dueDate - new Date()) / (1000 * 3600 * 24);
+                if (numDays < -1) {
+                    tr.classList.add('passed');
+                }
             }
         }
-    }
-</script>
+    </script>
 {% endif %}

@@ -1,7 +1,7 @@
 ---
 layout: lecture
 num: 1
-title: I. Course Introduction
+title: Course Introduction
 type: lecture
 draft: 0
 group: 101
