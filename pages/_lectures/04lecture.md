@@ -1,10 +1,8 @@
 ---
 layout: lecture
-num: 3
 title: "Do Artifacts Have Politics?"
 type: lecture
 draft: 0
-group: 2
 show_schedule: 1
 # slides:
 #   - url: https://docs.google.com/presentation/d/1LOrKCvgBDvE9JT1lNHAiy2ePcXXPUWG3x9ahiqCmfbY/edit?usp=sharing

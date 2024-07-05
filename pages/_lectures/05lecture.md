@@ -1,12 +1,10 @@
 ---
 layout: lecture
-num: 5
 title: Un/Intentionality
 type: lecture
 draft: 0
-group: 2
 show_schedule: 1
-due_date: 2024-07-02
+due_date: 2024-07-01
 slides:
   # - url: https://docs.google.com/presentation/d/117HoTsF1A6YNvjVTsPdqg2clLcyAGYYn0QDRmTbCQFs/edit?usp=sharing
   #   title: STS, Part 2

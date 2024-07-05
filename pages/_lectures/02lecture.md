@@ -1,10 +1,8 @@
 ---
 layout: lecture
-num: 1
 title: Land Extractions
 type: lecture
 draft: 0
-group: 1
 show_schedule: 1
 # slides:
 #   - url: https://docs.google.com/presentation/d/1erZtMvQBXUfPWtnDGopAbA1KXY3nPVvY5BcJyFOERDE/edit?usp=sharing

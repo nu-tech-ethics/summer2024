@@ -1,16 +1,19 @@
 ---
 layout: lecture
-num: 8
 title: Tech Ethics & Moral Philosophy
 type: lecture
 draft: 0
-group: 4
 show_schedule: 1
-due_date: 2024-01-30
-slides:
-  - url: https://docs.google.com/presentation/d/1uHUoHgsjA8OmW1TPpyFe_2s9u6y0OBAvEb9xZUv7BYI/edit?usp=sharing
-    title: Tech Ethics & Moral Philosophy
+due_date: 2024-07-08
+# slides:
+#   - url: https://docs.google.com/presentation/d/1uHUoHgsjA8OmW1TPpyFe_2s9u6y0OBAvEb9xZUv7BYI/edit?usp=sharing
+#     title: Tech Ethics & Moral Philosophy
 readings:
+  - title: "Overview of Ethics in Tech Practice"
+    url: https://www.scu.edu/ethics-in-technology-practice/overview-of-ethics-in-tech-practice/
+    author: Vallor, S., Green, B., & Raicu, I.
+    date: 2018
+    source: Markkula Center for Applied Ethics
   - title: "From Ethics Washing to Ethics Bashing: A View on Tech Ethics from Within Moral Philosophy"
     author: Bietti, E.
     date: 2021
@@ -21,12 +24,6 @@ readings:
     author: Williams, R., Smarr, S., Prioleau, D., & Gilbert, J. E.
     date: 2022
     source: IEEE Journals & Magazine
-    notes: Only read the intro. To access reading, click "PDF" and then "Access through your institution". Once you find Northwestern, you should be redirected to logging in and should be able to access the reading.
-  - title: "Overview of Ethics in Tech Practice"
-    url: https://www.scu.edu/ethics-in-technology-practice/overview-of-ethics-in-tech-practice/
-    author: Vallor, S., Green, B., & Raicu, I.
-    date: 2018
-    source: Markkula Center for Applied Ethics
-    optional: 1
+    notes: To access reading, click "PDF" and then "Access through your institution". Once you find Northwestern, you should be redirected to logging in and should be able to access the reading.
 ---
 

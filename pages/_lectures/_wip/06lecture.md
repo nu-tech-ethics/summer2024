@@ -6,10 +6,10 @@ type: lecture
 draft: 0
 group: 3
 show_schedule: 1
-due_date: 2024-01-23
-slides:
-  - url: https://docs.google.com/presentation/d/1GurAaH7VCYjsoWoJDprkOxX1AFC60YdeGOTootWWFB8/edit?usp=sharing
-    title: The Creation of Race
+due_date: 2024-07-08
+# slides:
+#   - url: https://docs.google.com/presentation/d/1GurAaH7VCYjsoWoJDprkOxX1AFC60YdeGOTootWWFB8/edit?usp=sharing
+#     title: The Creation of Race
 readings:
   - title: "Chapter Two - Inheriting Inequality: Standardized Testing and The Rationality of Social Control"
     url: https://canvas.northwestern.edu/files/18212290/

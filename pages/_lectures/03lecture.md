@@ -1,10 +1,8 @@
 ---
 layout: lecture
-num: 3
 title: "Human Extractions"
 type: lecture
 draft: 0
-group: 1
 show_schedule: 1
 # slides:
 #   - url: https://docs.google.com/presentation/d/1slTt-TLEpe1F_rq_M7jhHIboYQQm-S-fUumYtFdg7L4/edit?usp=sharing
