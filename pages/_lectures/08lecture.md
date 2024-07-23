@@ -21,7 +21,7 @@ readings:
     source: NYU Press
 
   - title: "Chapter Two - Inheriting Inequality: Standardized Testing and The Rationality of Social Control"
-    url: https://canvas.northwestern.edu/files/18212290/
+    url: https://canvas.northwestern.edu/files/19537288
     author: Au, W.
     date: 2007
     source: "Unequal by design: High-stakes testing and the standardization of inequality"
