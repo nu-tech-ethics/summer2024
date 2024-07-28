@@ -18,4 +18,7 @@ draft: 0
 	- How might these attributes have their own biases?
 	- How might race and/or gender be encoded in something like CVs/resumes?
 	- What are ways bias ~~can be~~ is encoded in large datasets?
-1. Reflect: How does Benjamin's quote above relate to the learnings of this game?
+1. Reflect: 
+	- How does Benjamin's quote above relate to the learnings of this game?
+	- Does a racist technology require racists? Why or why not?
+	- Will increasing the number of BIPOC (Black, Indigenous, people of color) engineers and computer scientists solve the problem of racist technology? Why or why not?
