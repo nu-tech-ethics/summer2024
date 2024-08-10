@@ -1,5 +1,5 @@
 {% assign optional = 0 %}
-{% assign pick_one = 0 %}
+{% assign pick_x = 0 %}
 {% assign add_pick_x = 0 %}
 
 {% assign num_words = 'Zero,One,Two,Three,Four,Five,Six,Seven,Eight,Nine' | split: ',' %}
@@ -10,8 +10,8 @@
 {% for item in page.readings %}
     {% if item.optional == 1 %}
         {% assign optional = 1 %}
-    {% elsif item.pick_one == 1 %}
-        {% assign pick_one = 1 %}
+    {% elsif item.pick_x and item.pick_x != 0 %}
+        {% assign pick_x = item.pick_x %}
     {% elsif item.add_pick_x and item.add_pick_x != 0 %}
         {% assign add_pick_x = item.add_pick_x %}
     {% else %}
@@ -21,11 +21,11 @@
 </ul>
 
 
-{% if pick_one == 1 %}
-    <p class="optional-readings">Pick one (or more!) of the following to complete before the end of the week</p>
+{% if pick_x != 0 %}
+    <p class="optional-readings">Choose at least {{ num_words[pick_x] | upcase }} of the following to complete before the end of the week</p>
     <ul class="readings">
     {% for item in page.readings %}
-        {% if item.pick_one != 0 %}
+        {% if item.pick_x and item.pick_x != 0 %}
             {% include reading.html %} 
         {% endif %}
     {% endfor %}
